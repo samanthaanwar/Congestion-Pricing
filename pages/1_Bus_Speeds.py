@@ -16,6 +16,7 @@ import geopandas as gpd
 from shapely.geometry import LineString, Polygon
 from shapely.ops import unary_union, linemerge
 from pathlib import Path
+import numpy as np
 
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / 'gtfs_m'
@@ -81,6 +82,8 @@ plot = bus_speeds.loc[(bus_speeds.period == 'Peak') &
                       (bus_speeds.month_code == 1)]
 
 improve = {}
+pct_improved = {}
+abs_improved = {}
 for route in plot.route_id.unique():
     slice_df = plot.loc[plot.route_id == route]
     speeds = dict(zip(slice_df.year, slice_df.average_speed))
@@ -88,10 +91,14 @@ for route in plot.route_id.unique():
         improve[route] = 'Improved'
     else:
         improve[route] = 'No Improvement'
+    pct_improved[route] = round((speeds[2025] - speeds[2024]) / speeds[2024] * 100, 2)
+    abs_improved[route] = round(speeds[2025] - speeds[2024],2)
 
 # Don't need speed specifics for the map
 map_plot = plot[['route_id']].drop_duplicates()
 map_plot['performance'] = map_plot['route_id'].map(improve)
+map_plot['pct_improved'] = map_plot['route_id'].map(pct_improved)
+map_plot['abs_improved'] = map_plot['route_id'].map(abs_improved)
 map_plot = map_plot.merge(dedupe, on = 'route_id')
 
 # Bus Lanes data
@@ -104,9 +111,10 @@ bus_lanes = bus_lanes[bus_lanes.geometry.within(zone_polygon)].reset_index(drop=
 combined = unary_union(bus_lanes.geometry)
 merged = linemerge(combined)
 
-
+# Initialize plot
 fig = go.Figure()
 
+# Plot bus lanes
 lons, lats = [], []
 for line in merged.geoms:  # Each piece is a LineString
     x, y = line.xy
@@ -121,19 +129,25 @@ fig.add_trace(go.Scattermapbox(
     lon=lons,
     lat=lats,
     name='Bus Lanes',
-    line=dict(width=4, color='blue'),
-    opacity = 0.3
+    line=dict(width=10, color='blue'),
+    opacity = 0.2,
+    hoverinfo='text'
 ))
 
 improved = map_plot[map_plot['performance'] == 'Improved']
+
 for idx, row in improved.iterrows():
     x, y = row['geometry'].xy
     fig.add_trace(go.Scattermapbox(
         mode="lines",
         lon=list(x),
         lat=list(y),
-        name=str(row['route_id']),
-        line=dict(width=2, color = 'green')
+        line=dict(width= 1.5 * row['pct_improved'], color = 'green'),
+        name=row['route_id'],
+        text=f'<b>Route {row['route_id']}</b><br>' + 
+             f'{row['pct_improved']}% YoY<br>' +
+             f'{row['abs_improved']} mph YoY change',
+        hoverinfo='text'
     ))
 
 no_improvement = map_plot[map_plot['performance'] == 'No Improvement']
@@ -143,8 +157,12 @@ for idx, row in no_improvement.iterrows():
         mode="lines",
         lon=list(x),
         lat=list(y),
-        name=str(row['route_id']),
-        line=dict(width=2, color = 'red')
+        line=dict(width= -1.5 * row['pct_improved'], color = 'red'),
+        name=row['route_id'],
+        text=f'<b>Route {row['route_id']}</b><br>' + 
+             f'{row['pct_improved']}% YoY<br>' +
+             f'{row['abs_improved']} mph YoY change',
+        hoverinfo='text'
     ))
 
 # Number of traces in each group
@@ -206,6 +224,9 @@ fig.update_layout(
 
 st.title('Buses moved faster in Jan 2025 vs. Jan 2024')
 st.plotly_chart(fig)
+
 '''
-TO-DO: Update hover data. Remove coordinates, add in speed improvement.
+TO-DO:
+- Statistical analysis: Did bus lanes improve significantly more than non bus lanes?
+- Add in Queens + BK data for bridge crossings ?
 '''
