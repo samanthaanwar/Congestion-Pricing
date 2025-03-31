@@ -1,14 +1,3 @@
-# import streamlit as st
-# import sys
-# sys.path.insert(0, '/visualizations')
-
-# from visualizations import bus_lanes_plot
-
-# bus_lanes = bus_lanes_plot.bus_lanes()
-
-# st.title('Preliminary Impacts of Congestion Pricing in New York City')
-# st.plotly_chart(bus_lanes)
-
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
@@ -131,7 +120,7 @@ fig.add_trace(go.Scattermapbox(
     name='Bus Lanes',
     line=dict(width=10, color='blue'),
     opacity = 0.2,
-    hoverinfo='text'
+    hoverinfo='skip'
 ))
 
 improved = map_plot[map_plot['performance'] == 'Improved']
@@ -146,11 +135,12 @@ for idx, row in improved.iterrows():
         name=row['route_id'],
         text=f'<b>Route {row['route_id']}</b><br>' + 
              f'{row['pct_improved']}% YoY<br>' +
-             f'{row['abs_improved']} mph YoY change',
+             f'{row['abs_improved']:.2f} mph YoY change',
         hoverinfo='text'
     ))
 
 no_improvement = map_plot[map_plot['performance'] == 'No Improvement']
+
 for idx, row in no_improvement.iterrows():
     x, y = row['geometry'].xy
     fig.add_trace(go.Scattermapbox(
