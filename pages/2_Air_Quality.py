@@ -6,7 +6,7 @@ dfs = []
 
 for year in [2022, 2023, 2024, 2025]:
     if year == 2025:
-        for month in range(1,4):  
+        for month in range(1,5):  
             url = f'https://azdohv2staticweb.blob.core.windows.net/$web/hist/csv/{year}/{month}/hourlyMonitoring.csv'
             dfs.append(pd.read_csv(url))
     else:
@@ -289,11 +289,11 @@ st.markdown('''
     Hamilton Bridge, and SI Expwy sites were added in 2025 using funds from the tolling program.
 ''')
 
-st.plotly_chart(last7days)
-st.caption('''
-    This describes daily average PM2.5 levels across all air quality sites for the most recent ISO week. The 
-    dropdown menu allows you to compare the same ISO week in previous years.
-''')
+# st.plotly_chart(last7days)
+# st.caption('''
+#     This describes daily average PM2.5 levels across all air quality sites for the most recent ISO week. The 
+#     dropdown menu allows you to compare the same ISO week in previous years.
+# ''')
 
 st.plotly_chart(aqi_map)
 st.caption('''

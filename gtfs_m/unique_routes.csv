@@ -1,0 +1,10 @@
+link_name,polyline,coords,geometry
+3rd Avenue - Northbound - 49th St to 57th St,a_wwFfonbMq^aV,"[(40.75521, -73.97124), (40.76026, -73.96755)]","LINESTRING (-73.97124 40.75521, -73.96755 40.76026)"
+8th Avenue - Northbound - 23rd St to 34th St,aauwFpysbMcj@m^,"[(40.74529, -73.99849), (40.75219, -73.99346)]","LINESTRING (-73.99849 40.74529, -73.99346 40.75219)"
+2nd Avenue - Southbound - 34th St to 23rd St,u}twFhlobM`j@l^,"[(40.74475, -73.97589), (40.73786, -73.98092)]","LINESTRING (-73.97589 40.74475, -73.98092 40.73786)"
+5th Avenue - Southbound - 49th St to 42th St,}owwFhwobMvFxDzFrD`KzG,"[(40.75791, -73.97765), (40.75667, -73.97858), (40.75541, -73.97948), (40.75348, -73.9809)]","LINESTRING (-73.97765 40.75791, -73.97858 40.75667, -73.97948 40.75541, -73.9809 40.75348)"
+Lexington Ave - Southbound - 96 St to 86 St,u~|wFjpjbMzf@`\,"[(40.78587, -73.95094), (40.77949, -73.95559)]","LINESTRING (-73.95094 40.78587, -73.95559 40.77949)"
+57th Street - Eastbound - 6th Ave to 5th Ave,qwxwFztobMnGgS,"[(40.76425, -73.97726), (40.76289, -73.97402)]","LINESTRING (-73.97726 40.76425, -73.97402 40.76289)"
+Williamsburg Bridge - Westbound - Brooklyn @ Bedford Ave to Manhattan @ Delancey,aknwFr}lbMwh@fhC,"[(40.71105, -73.9633), (40.71773, -73.98526)]","LINESTRING (-73.9633 40.71105, -73.98526 40.71773)"
+23rd Street - Westbound - 6th Ave to 7th Ave,_stwFjurbMiF`Q,"[(40.74304, -73.9927), (40.74421, -73.99559)]","LINESTRING (-73.9927 40.74304, -73.99559 40.74421)"
+34th Street - Westbound - 3rd Ave to Madison Ave,eduwFzyobMeCbIgCbIgC`I,"[(40.74579, -73.97806), (40.74646, -73.97968), (40.74714, -73.9813), (40.74782, -73.98291)]","LINESTRING (-73.97806 40.74579, -73.97968 40.74646, -73.9813 40.74714, -73.98291 40.74782)"

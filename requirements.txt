@@ -3,5 +3,4 @@ plotly
 geopandas
 shapely
 polyline
-concurrent.futures
 numpy
