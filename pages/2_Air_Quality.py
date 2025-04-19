@@ -85,7 +85,6 @@ for yr in unique_years:
     year_trace_indices[yr] = trace_indices
 
 # --- Build Dropdown Buttons ---
-# We'll create one button for each year plus an "All Years" option if desired.
 buttons = []
 
 # Create a button for each individual year.
@@ -124,7 +123,7 @@ weekly_avg = week_df[['Value'] + grouping].groupby(by = grouping).mean().reset_i
 week_start = week_df.loc[week_df.Year == week_df.Year.max()].Date.min().strftime('%b %d')
 week_end = week_df.loc[week_df.Year == week_df.Year.max()].Date.max().strftime('%b %d')
 
-# Create a scattermapbox aqi_mapure
+# Create a scattermapbox figure
 aqi_map = go.Figure()
 
 unique_years = sorted(weekly_avg['iso_year'].unique())
@@ -135,7 +134,7 @@ for yr in unique_years:
     trace = go.Scattermapbox(
         lat=df_year['Latitude'],
         lon=df_year['Longitude'],
-        text='<b>' + df_year['SiteName'] + ":</b> " + round(df_year['Value'], 2).astype(str),
+        text='<b>' + df_year['SiteName'] + ' (' + str(yr) + ')' + ":</b> " + round(df_year['Value'], 2).astype(str),
         mode='markers',
         marker=go.scattermapbox.Marker(
             size=df_year['Value']*3,  # adjust scaling as needed
