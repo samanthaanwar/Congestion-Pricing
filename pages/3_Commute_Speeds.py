@@ -72,7 +72,7 @@ day_choice = st.selectbox(
 )
 
 commute_speeds['date'] = pd.to_datetime(commute_speeds['date'])
-commute_speeds['hour'] = commute_speeds['date'].dt.time
+commute_speeds['hour'] = commute_speeds['date'].dt.hour
 commute_speeds['hour_label'] = commute_speeds['date'].apply(lambda x: x.strftime('%I:%M %p'))
 commute_speeds['weekday'] = commute_speeds['date'].dt.day_name()
 
