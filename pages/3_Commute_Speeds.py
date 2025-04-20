@@ -56,6 +56,16 @@ route_map.update_layout(
     showlegend=False
 )
 
+st.title('Commute Times')
+st.markdown('''
+    How did congestion pricing impact driving times throughout the city? Congestion should
+    improve traffic speeds. To answer this question, we look at E-Z Pass readers installed
+    throughout the city. Congestion pricing is directly funding this data collection project.
+    Data begins in July 2024. For an appropriate comparison between pre- and post-
+    congestion pricing impact, the pre period is defined as the average speed per route
+    in August and September 2024. The post period is defined as the last six weeks of data.
+    A map of routes analyzed is below, followed by an interactive line plot.
+''')
 st.plotly_chart(route_map)
 
 # streamlit app
