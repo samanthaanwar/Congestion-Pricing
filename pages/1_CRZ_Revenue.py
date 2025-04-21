@@ -147,6 +147,9 @@ st.markdown('''
     - We do NOT include low-income fare exemptions.
 ''')
 
+revenue_sum = entries['Estimated Revenue'].sum()
+st.subheader(f'Estimated Revenue (as of 4/12/25): ${revenue_sum:,.0f}')
+
 view_choice = st.selectbox('Select view', ['By Vehicle Class', 'By Period'])
 
 entries['Toll Date'] = pd.to_datetime(entries['Toll Date'])
@@ -157,19 +160,27 @@ if view_choice == 'By Vehicle Class':
                     .sum()
                     .reset_index())
     line_plot = px.bar(rev_group, x = 'Toll Date', y = 'Estimated Revenue', 
-                       color = 'Vehicle Class', 
+                       color = 'Vehicle Class',
+                       custom_data = ['Vehicle Class'],
                        category_orders={'Vehicle Class': ['Passenger Cars & Vans', 'TLC Taxi/FHV',
                                                           'Single-Unit Trucks', 'Buses', 'Multi-Unit Trucks',
                                                           'Motorcycles']})
-    line_plot.update_layout(xaxis_title='', font_family='Arial', height = 600)
+    line_plot.update_layout(xaxis_title='', font_family='Arial', height = 500)
+    line_plot.update_traces(hovertemplate = '''
+                            <b>%{x}</b><br><br><b>%{customdata[0]}</b>
+                            <br>$%{y:,.2f}<extra></extra>''')
 
 else:
     rev_group = (entries
                     .groupby(['Toll Date', 'Day of Week', 'Toll Week', 'Time Period'])['Estimated Revenue']
                     .sum()
                     .reset_index())
-    
     line_plot = px.bar(rev_group, x = 'Toll Date', y = 'Estimated Revenue', 
-                       color = 'Time Period', category_orders = {'Time Period': ['Peak', 'Overnight']})
+                       color = 'Time Period', custom_data = ['Time Period'],
+                       category_orders = {'Time Period': ['Peak', 'Overnight']})
+    line_plot.update_layout(xaxis_title='', font_family='Arial', height = 500)
+    line_plot.update_traces(hovertemplate = '''
+                            <b>%{x}</b><br><br><b>%{customdata[0]}</b>
+                            <br>$%{y:,.2f}<extra></extra>''')
 
 st.plotly_chart(line_plot)
