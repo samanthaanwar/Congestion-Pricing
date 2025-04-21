@@ -51,31 +51,42 @@ route_map.update_layout(
     mapbox_zoom=11.7,
     mapbox_center={"lat": 40.75, "lon": -73.985},
     margin={"r": 0, "t": 0, "l": 0, "b": 0},
-    height=600,
+    height=500,
     width=400,
     showlegend=False
 )
 
 st.title('Commute Times')
-st.markdown('''
+
+col1, col2 = st.columns(2)
+col1.markdown('''
     How did congestion pricing impact driving times throughout the city? Congestion should
     improve traffic speeds. To answer this question, we look at E-Z Pass readers installed
     throughout the city. Congestion pricing is directly funding this data collection project.
     Data begins in July 2024. For an appropriate comparison between pre- and post-
     congestion pricing impact, the pre period is defined as the average speed per route
     in August and September 2024. The post period is defined as the last six weeks of data.
-    A map of routes analyzed is below, followed by an interactive line plot.
+    A map of routes analyzed is to the right, followed by an interactive line plot below.
 ''')
-st.plotly_chart(route_map)
 
-# streamlit app
+col1.markdown('''
+    A small selection of the EZ-Pass reader routes that are in the CRZ are used in this 
+    analysis. For comparison, "Lexington Ave - Southbound - 96th St to 86th St," which does
+    not fall in the CRZ is included.
+''')
+col2.plotly_chart(route_map, use_container_width = False)
 
-route_choice = st.selectbox(
+st.markdown(
+    ':orange-badge[:material/star: NOTE: Congestion pricing is in effect from 5 AM to ' \
+    '9 PM on weekdays and 9 AM to 9 PM on weekends.] ')
+
+col3, col4 = st.columns(2)
+route_choice = col3.selectbox(
     'Select route',
     keep
 )
 
-day_choice = st.selectbox(
+day_choice = col4.selectbox(
     'Select day of week',
     ('Monday', 'Tuesday', 'Wednesday', 
     'Thursday', 'Friday', 'Saturday', 'Sunday')
@@ -95,7 +106,10 @@ for day in commute_speeds['date']:
 
 commute_speeds['period'] = period
 
-agg_hr_df = commute_speeds.groupby(['link_name', 'date', 'hour', 'hour_label', 'weekday', 'period'])['mph'].mean().reset_index()
+agg_hr_df = (commute_speeds
+             .groupby(['link_name', 'date', 'hour', 'hour_label', 'weekday', 'period'])['mph']
+             .mean()
+             .reset_index())
 
 choice = agg_hr_df[(agg_hr_df.link_name == route_choice) & (agg_hr_df.weekday == day_choice)]
 
@@ -106,17 +120,37 @@ choice = (choice
 
 choice = choice.sort_values(by='hour')
 
-line_plot = px.line(choice, x = 'hour_label', y = 'mph', color = 'period', line_shape = 'spline')
+line_plot = px.line(choice, x = 'hour_label', y = 'mph', color = 'period', 
+                    line_shape = 'spline',
+                    color_discrete_map={
+                        'Pre-CP': 'gray',        # light blue
+                        'CP in Effect': 'blue'   # red
+    })
 line_plot.update_layout(height = 500, width = 900, 
     yaxis_title = 'Average Speed (mph)', xaxis_title = '',
-    font_family='Arial', legend_title = 'Period')
+    font_family='Arial', legend_title = 'Period', 
+    hovermode = 'x unified',
+    legend=dict(
+        x=0.8,
+        y=0.99,
+        xanchor='left',
+        yanchor='top'
+    ))
+
+line_plot.update_traces(hovertemplate = '%{y:.2f} mph<extra></extra>')
 
 # Define sorted list of labels manually
 hour_order = pd.date_range("00:00", "23:00", freq="1H").strftime("%I:%M %p").tolist()
+visible_labels = ['12:00 AM', '03:00 AM', '06:00 AM', '09:00 AM',
+                  '12:00 PM', '03:00 PM', '06:00 PM', '09:00 PM']
 
 line_plot.update_xaxes(
     categoryorder='array',
-    categoryarray=hour_order
+    categoryarray=hour_order,
+    tickvals=visible_labels,
+    tickangle=0  # make them horizontal
 )
+
+##### STREAMLIT APP #####
 
 st.plotly_chart(line_plot)

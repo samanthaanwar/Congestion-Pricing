@@ -168,7 +168,7 @@ aqi_map.update_layout(
     updatemenus=[dict(
         active=0,
         buttons=buttons,
-        x=0.9,
+        x=0.875,
         xanchor="left",
         y=0.975,
         yanchor="top"
