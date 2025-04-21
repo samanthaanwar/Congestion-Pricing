@@ -24,7 +24,7 @@ keep = ['3rd Avenue - Northbound - 49th St to 57th St',
         '34th Street - Westbound - 3rd Ave to Madison Ave']
 
 BASE_DIR = Path(__file__).parent.parent
-DATA_DIR = BASE_DIR / 'gtfs_m'
+DATA_DIR = BASE_DIR / 'data'
 
 # Load multiple files
 commute_speeds = pd.read_csv(DATA_DIR / 'commute_speeds.csv')

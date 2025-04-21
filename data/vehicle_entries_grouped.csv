@@ -1,0 +1,1177 @@
+Toll Date,Day of Week,Toll Week,Time Period,Vehicle Class,CRZ Entries,Estimated Rate,Estimated Revenue
+2025-01-05,Sunday,2025-01-05,Overnight,Passenger Cars & Vans,76498,2.25,137696.4
+2025-01-05,Sunday,2025-01-05,Overnight,Single-Unit Trucks,2014,3.6,5800.32
+2025-01-05,Sunday,2025-01-05,Overnight,Multi-Unit Trucks,377,5.4,1628.64
+2025-01-05,Sunday,2025-01-05,Overnight,Buses,1067,3.69,3149.78
+2025-01-05,Sunday,2025-01-05,Overnight,Motorcycles,340,1.05,285.6
+2025-01-05,Sunday,2025-01-05,Overnight,TLC Taxi/FHV,60982,1.13,55127.73
+2025-01-05,Sunday,2025-01-05,Peak,Passenger Cars & Vans,177422,9.0,1277438.4
+2025-01-05,Sunday,2025-01-05,Peak,Single-Unit Trucks,3139,14.4,36161.28
+2025-01-05,Sunday,2025-01-05,Peak,Multi-Unit Trucks,325,21.6,5616.0
+2025-01-05,Sunday,2025-01-05,Peak,Buses,2413,14.76,28492.7
+2025-01-05,Sunday,2025-01-05,Peak,Motorcycles,1147,4.5,4129.2
+2025-01-05,Sunday,2025-01-05,Peak,TLC Taxi/FHV,92240,1.13,83384.96
+2025-01-06,Monday,2025-01-05,Overnight,Passenger Cars & Vans,38418,2.25,69152.4
+2025-01-06,Monday,2025-01-05,Overnight,Single-Unit Trucks,2599,3.6,7485.12
+2025-01-06,Monday,2025-01-05,Overnight,Multi-Unit Trucks,624,5.4,2695.68
+2025-01-06,Monday,2025-01-05,Overnight,Buses,716,3.69,2113.63
+2025-01-06,Monday,2025-01-05,Overnight,Motorcycles,176,1.05,147.84
+2025-01-06,Monday,2025-01-05,Overnight,TLC Taxi/FHV,30208,1.13,27308.03
+2025-01-06,Monday,2025-01-05,Peak,Passenger Cars & Vans,218685,9.0,1574532.0
+2025-01-06,Monday,2025-01-05,Peak,Single-Unit Trucks,20825,14.4,239903.99
+2025-01-06,Monday,2025-01-05,Peak,Multi-Unit Trucks,1856,21.6,32071.68
+2025-01-06,Monday,2025-01-05,Peak,Buses,9106,14.76,107523.65
+2025-01-06,Monday,2025-01-05,Peak,Motorcycles,1161,4.5,4179.6
+2025-01-06,Monday,2025-01-05,Peak,TLC Taxi/FHV,113409,1.13,102521.74
+2025-01-07,Tuesday,2025-01-05,Overnight,Passenger Cars & Vans,40023,2.25,72041.4
+2025-01-07,Tuesday,2025-01-05,Overnight,Single-Unit Trucks,2675,3.6,7704.0
+2025-01-07,Tuesday,2025-01-05,Overnight,Multi-Unit Trucks,591,5.4,2553.12
+2025-01-07,Tuesday,2025-01-05,Overnight,Buses,765,3.69,2258.28
+2025-01-07,Tuesday,2025-01-05,Overnight,Motorcycles,185,1.05,155.4
+2025-01-07,Tuesday,2025-01-05,Overnight,TLC Taxi/FHV,34756,1.13,31419.42
+2025-01-07,Tuesday,2025-01-05,Peak,Passenger Cars & Vans,234198,9.0,1686225.6
+2025-01-07,Tuesday,2025-01-05,Peak,Single-Unit Trucks,21796,14.4,251089.91
+2025-01-07,Tuesday,2025-01-05,Peak,Multi-Unit Trucks,1907,21.6,32952.96
+2025-01-07,Tuesday,2025-01-05,Peak,Buses,9385,14.76,110818.08
+2025-01-07,Tuesday,2025-01-05,Peak,Motorcycles,1260,4.5,4536.0
+2025-01-07,Tuesday,2025-01-05,Peak,TLC Taxi/FHV,122391,1.13,110641.46
+2025-01-08,Wednesday,2025-01-05,Overnight,Passenger Cars & Vans,40357,2.25,72642.6
+2025-01-08,Wednesday,2025-01-05,Overnight,Single-Unit Trucks,2621,3.6,7548.48
+2025-01-08,Wednesday,2025-01-05,Overnight,Multi-Unit Trucks,579,5.4,2501.28
+2025-01-08,Wednesday,2025-01-05,Overnight,Buses,758,3.69,2237.62
+2025-01-08,Wednesday,2025-01-05,Overnight,Motorcycles,178,1.05,149.52
+2025-01-08,Wednesday,2025-01-05,Overnight,TLC Taxi/FHV,38030,1.13,34379.12
+2025-01-08,Wednesday,2025-01-05,Peak,Passenger Cars & Vans,236316,9.0,1701475.2
+2025-01-08,Wednesday,2025-01-05,Peak,Single-Unit Trucks,20507,14.4,236240.63
+2025-01-08,Wednesday,2025-01-05,Peak,Multi-Unit Trucks,1901,21.6,32849.28
+2025-01-08,Wednesday,2025-01-05,Peak,Buses,9804,14.76,115765.63
+2025-01-08,Wednesday,2025-01-05,Peak,Motorcycles,1252,4.5,4507.2
+2025-01-08,Wednesday,2025-01-05,Peak,TLC Taxi/FHV,127083,1.13,114883.03
+2025-01-09,Thursday,2025-01-05,Overnight,Passenger Cars & Vans,40351,2.25,72631.8
+2025-01-09,Thursday,2025-01-05,Overnight,Single-Unit Trucks,2641,3.6,7606.08
+2025-01-09,Thursday,2025-01-05,Overnight,Multi-Unit Trucks,599,5.4,2587.68
+2025-01-09,Thursday,2025-01-05,Overnight,Buses,772,3.69,2278.94
+2025-01-09,Thursday,2025-01-05,Overnight,Motorcycles,214,1.05,179.76
+2025-01-09,Thursday,2025-01-05,Overnight,TLC Taxi/FHV,42407,1.13,38335.93
+2025-01-09,Thursday,2025-01-05,Peak,Passenger Cars & Vans,234798,9.0,1690545.6
+2025-01-09,Thursday,2025-01-05,Peak,Single-Unit Trucks,21051,14.4,242507.51
+2025-01-09,Thursday,2025-01-05,Peak,Multi-Unit Trucks,1984,21.6,34283.52
+2025-01-09,Thursday,2025-01-05,Peak,Buses,9719,14.76,114761.95
+2025-01-09,Thursday,2025-01-05,Peak,Motorcycles,1247,4.5,4489.2
+2025-01-09,Thursday,2025-01-05,Peak,TLC Taxi/FHV,133462,1.13,120649.65
+2025-01-10,Friday,2025-01-05,Overnight,Passenger Cars & Vans,46702,2.25,84063.6
+2025-01-10,Friday,2025-01-05,Overnight,Single-Unit Trucks,2531,3.6,7289.28
+2025-01-10,Friday,2025-01-05,Overnight,Multi-Unit Trucks,581,5.4,2509.92
+2025-01-10,Friday,2025-01-05,Overnight,Buses,733,3.69,2163.82
+2025-01-10,Friday,2025-01-05,Overnight,Motorcycles,255,1.05,214.2
+2025-01-10,Friday,2025-01-05,Overnight,TLC Taxi/FHV,45771,1.13,41376.98
+2025-01-10,Friday,2025-01-05,Peak,Passenger Cars & Vans,234184,9.0,1686124.8
+2025-01-10,Friday,2025-01-05,Peak,Single-Unit Trucks,21334,14.4,245767.67
+2025-01-10,Friday,2025-01-05,Peak,Multi-Unit Trucks,1988,21.6,34352.64
+2025-01-10,Friday,2025-01-05,Peak,Buses,9087,14.76,107299.3
+2025-01-10,Friday,2025-01-05,Peak,Motorcycles,1523,4.5,5482.8
+2025-01-10,Friday,2025-01-05,Peak,TLC Taxi/FHV,128010,1.13,115721.04
+2025-01-11,Saturday,2025-01-05,Overnight,Passenger Cars & Vans,88547,2.25,159384.6
+2025-01-11,Saturday,2025-01-05,Overnight,Single-Unit Trucks,4328,3.6,12464.64
+2025-01-11,Saturday,2025-01-05,Overnight,Multi-Unit Trucks,625,5.4,2700.0
+2025-01-11,Saturday,2025-01-05,Overnight,Buses,1380,3.69,4073.76
+2025-01-11,Saturday,2025-01-05,Overnight,Motorcycles,388,1.05,325.92
+2025-01-11,Saturday,2025-01-05,Overnight,TLC Taxi/FHV,75961,1.13,68668.74
+2025-01-11,Saturday,2025-01-05,Peak,Passenger Cars & Vans,171647,9.0,1235858.4
+2025-01-11,Saturday,2025-01-05,Peak,Single-Unit Trucks,4995,14.4,57542.4
+2025-01-11,Saturday,2025-01-05,Peak,Multi-Unit Trucks,453,21.6,7827.84
+2025-01-11,Saturday,2025-01-05,Peak,Buses,2928,14.76,34573.82
+2025-01-11,Saturday,2025-01-05,Peak,Motorcycles,1226,4.5,4413.6
+2025-01-11,Saturday,2025-01-05,Peak,TLC Taxi/FHV,107980,1.13,97613.92
+2025-01-12,Sunday,2025-01-12,Overnight,Passenger Cars & Vans,75540,2.25,135972.0
+2025-01-12,Sunday,2025-01-12,Overnight,Single-Unit Trucks,2052,3.6,5909.76
+2025-01-12,Sunday,2025-01-12,Overnight,Multi-Unit Trucks,300,5.4,1296.0
+2025-01-12,Sunday,2025-01-12,Overnight,Buses,1297,3.69,3828.74
+2025-01-12,Sunday,2025-01-12,Overnight,Motorcycles,344,1.05,288.96
+2025-01-12,Sunday,2025-01-12,Overnight,TLC Taxi/FHV,69698,1.13,63006.99
+2025-01-12,Sunday,2025-01-12,Peak,Passenger Cars & Vans,166403,9.0,1198101.6
+2025-01-12,Sunday,2025-01-12,Peak,Single-Unit Trucks,2696,14.4,31057.92
+2025-01-12,Sunday,2025-01-12,Peak,Multi-Unit Trucks,263,21.6,4544.64
+2025-01-12,Sunday,2025-01-12,Peak,Buses,2646,14.76,31243.97
+2025-01-12,Sunday,2025-01-12,Peak,Motorcycles,1267,4.5,4561.2
+2025-01-12,Sunday,2025-01-12,Peak,TLC Taxi/FHV,97633,1.13,88260.23
+2025-01-13,Monday,2025-01-12,Overnight,Passenger Cars & Vans,38202,2.25,68763.6
+2025-01-13,Monday,2025-01-12,Overnight,Single-Unit Trucks,2497,3.6,7191.36
+2025-01-13,Monday,2025-01-12,Overnight,Multi-Unit Trucks,567,5.4,2449.44
+2025-01-13,Monday,2025-01-12,Overnight,Buses,830,3.69,2450.16
+2025-01-13,Monday,2025-01-12,Overnight,Motorcycles,241,1.05,202.44
+2025-01-13,Monday,2025-01-12,Overnight,TLC Taxi/FHV,32547,1.13,29422.49
+2025-01-13,Monday,2025-01-12,Peak,Passenger Cars & Vans,227262,9.0,1636286.4
+2025-01-13,Monday,2025-01-12,Peak,Single-Unit Trucks,20805,14.4,239673.59
+2025-01-13,Monday,2025-01-12,Peak,Multi-Unit Trucks,1861,21.6,32158.08
+2025-01-13,Monday,2025-01-12,Peak,Buses,9795,14.76,115659.36
+2025-01-13,Monday,2025-01-12,Peak,Motorcycles,1528,4.5,5500.8
+2025-01-13,Monday,2025-01-12,Peak,TLC Taxi/FHV,124584,1.13,112623.94
+2025-01-14,Tuesday,2025-01-12,Overnight,Passenger Cars & Vans,39657,2.25,71382.6
+2025-01-14,Tuesday,2025-01-12,Overnight,Single-Unit Trucks,2712,3.6,7810.56
+2025-01-14,Tuesday,2025-01-12,Overnight,Multi-Unit Trucks,636,5.4,2747.52
+2025-01-14,Tuesday,2025-01-12,Overnight,Buses,933,3.69,2754.22
+2025-01-14,Tuesday,2025-01-12,Overnight,Motorcycles,180,1.05,151.2
+2025-01-14,Tuesday,2025-01-12,Overnight,TLC Taxi/FHV,37506,1.13,33905.42
+2025-01-14,Tuesday,2025-01-12,Peak,Passenger Cars & Vans,234458,9.0,1688097.6
+2025-01-14,Tuesday,2025-01-12,Peak,Single-Unit Trucks,21406,14.4,246597.11
+2025-01-14,Tuesday,2025-01-12,Peak,Multi-Unit Trucks,1961,21.6,33886.08
+2025-01-14,Tuesday,2025-01-12,Peak,Buses,9674,14.76,114230.59
+2025-01-14,Tuesday,2025-01-12,Peak,Motorcycles,1459,4.5,5252.4
+2025-01-14,Tuesday,2025-01-12,Peak,TLC Taxi/FHV,131357,1.13,118746.73
+2025-01-15,Wednesday,2025-01-12,Overnight,Passenger Cars & Vans,41340,2.25,74412.0
+2025-01-15,Wednesday,2025-01-12,Overnight,Single-Unit Trucks,2598,3.6,7482.24
+2025-01-15,Wednesday,2025-01-12,Overnight,Multi-Unit Trucks,578,5.4,2496.96
+2025-01-15,Wednesday,2025-01-12,Overnight,Buses,843,3.69,2488.54
+2025-01-15,Wednesday,2025-01-12,Overnight,Motorcycles,217,1.05,182.28
+2025-01-15,Wednesday,2025-01-12,Overnight,TLC Taxi/FHV,41748,1.13,37740.19
+2025-01-15,Wednesday,2025-01-12,Peak,Passenger Cars & Vans,237603,9.0,1710741.6
+2025-01-15,Wednesday,2025-01-12,Peak,Single-Unit Trucks,21242,14.4,244707.83
+2025-01-15,Wednesday,2025-01-12,Peak,Multi-Unit Trucks,1980,21.6,34214.4
+2025-01-15,Wednesday,2025-01-12,Peak,Buses,9746,14.76,115080.77
+2025-01-15,Wednesday,2025-01-12,Peak,Motorcycles,1422,4.5,5119.2
+2025-01-15,Wednesday,2025-01-12,Peak,TLC Taxi/FHV,138385,1.13,125100.04
+2025-01-16,Thursday,2025-01-12,Overnight,Passenger Cars & Vans,42701,2.25,76861.8
+2025-01-16,Thursday,2025-01-12,Overnight,Single-Unit Trucks,2710,3.6,7804.8
+2025-01-16,Thursday,2025-01-12,Overnight,Multi-Unit Trucks,602,5.4,2600.64
+2025-01-16,Thursday,2025-01-12,Overnight,Buses,823,3.69,2429.5
+2025-01-16,Thursday,2025-01-12,Overnight,Motorcycles,209,1.05,175.56
+2025-01-16,Thursday,2025-01-12,Overnight,TLC Taxi/FHV,47163,1.13,42635.35
+2025-01-16,Thursday,2025-01-12,Peak,Passenger Cars & Vans,240228,9.0,1729641.6
+2025-01-16,Thursday,2025-01-12,Peak,Single-Unit Trucks,21322,14.4,245629.43
+2025-01-16,Thursday,2025-01-12,Peak,Multi-Unit Trucks,1977,21.6,34162.56
+2025-01-16,Thursday,2025-01-12,Peak,Buses,9770,14.76,115364.16
+2025-01-16,Thursday,2025-01-12,Peak,Motorcycles,1514,4.5,5450.4
+2025-01-16,Thursday,2025-01-12,Peak,TLC Taxi/FHV,144432,1.13,130566.53
+2025-01-17,Friday,2025-01-12,Overnight,Passenger Cars & Vans,48986,2.25,88174.8
+2025-01-17,Friday,2025-01-12,Overnight,Single-Unit Trucks,2561,3.6,7375.68
+2025-01-17,Friday,2025-01-12,Overnight,Multi-Unit Trucks,602,5.4,2600.64
+2025-01-17,Friday,2025-01-12,Overnight,Buses,821,3.69,2423.59
+2025-01-17,Friday,2025-01-12,Overnight,Motorcycles,250,1.05,210.0
+2025-01-17,Friday,2025-01-12,Overnight,TLC Taxi/FHV,47638,1.13,43064.75
+2025-01-17,Friday,2025-01-12,Peak,Passenger Cars & Vans,238066,9.0,1714075.2
+2025-01-17,Friday,2025-01-12,Peak,Single-Unit Trucks,21702,14.4,250007.03
+2025-01-17,Friday,2025-01-12,Peak,Multi-Unit Trucks,2037,21.6,35199.36
+2025-01-17,Friday,2025-01-12,Peak,Buses,9376,14.76,110711.81
+2025-01-17,Friday,2025-01-12,Peak,Motorcycles,1542,4.5,5551.2
+2025-01-17,Friday,2025-01-12,Peak,TLC Taxi/FHV,134866,1.13,121918.86
+2025-01-18,Saturday,2025-01-12,Overnight,Passenger Cars & Vans,89556,2.25,161200.8
+2025-01-18,Saturday,2025-01-12,Overnight,Single-Unit Trucks,4365,3.6,12571.2
+2025-01-18,Saturday,2025-01-12,Overnight,Multi-Unit Trucks,667,5.4,2881.44
+2025-01-18,Saturday,2025-01-12,Overnight,Buses,1537,3.69,4537.22
+2025-01-18,Saturday,2025-01-12,Overnight,Motorcycles,422,1.05,354.48
+2025-01-18,Saturday,2025-01-12,Overnight,TLC Taxi/FHV,76629,1.13,69272.62
+2025-01-18,Saturday,2025-01-12,Peak,Passenger Cars & Vans,175420,9.0,1263024.0
+2025-01-18,Saturday,2025-01-12,Peak,Single-Unit Trucks,5081,14.4,58533.12
+2025-01-18,Saturday,2025-01-12,Peak,Multi-Unit Trucks,447,21.6,7724.16
+2025-01-18,Saturday,2025-01-12,Peak,Buses,3183,14.76,37584.86
+2025-01-18,Saturday,2025-01-12,Peak,Motorcycles,1129,4.5,4064.4
+2025-01-18,Saturday,2025-01-12,Peak,TLC Taxi/FHV,106335,1.13,96126.84
+2025-01-19,Sunday,2025-01-19,Overnight,Passenger Cars & Vans,65122,2.25,117219.6
+2025-01-19,Sunday,2025-01-19,Overnight,Single-Unit Trucks,2152,3.6,6197.76
+2025-01-19,Sunday,2025-01-19,Overnight,Multi-Unit Trucks,278,5.4,1200.96
+2025-01-19,Sunday,2025-01-19,Overnight,Buses,1191,3.69,3515.83
+2025-01-19,Sunday,2025-01-19,Overnight,Motorcycles,289,1.05,242.76
+2025-01-19,Sunday,2025-01-19,Overnight,TLC Taxi/FHV,65510,1.13,59221.04
+2025-01-19,Sunday,2025-01-19,Peak,Passenger Cars & Vans,126171,9.0,908431.2
+2025-01-19,Sunday,2025-01-19,Peak,Single-Unit Trucks,2843,14.4,32751.36
+2025-01-19,Sunday,2025-01-19,Peak,Multi-Unit Trucks,219,21.6,3784.32
+2025-01-19,Sunday,2025-01-19,Peak,Buses,2289,14.76,27028.51
+2025-01-19,Sunday,2025-01-19,Peak,Motorcycles,762,4.5,2743.2
+2025-01-19,Sunday,2025-01-19,Peak,TLC Taxi/FHV,85857,1.13,77614.73
+2025-01-20,Monday,2025-01-19,Overnight,Passenger Cars & Vans,35436,2.25,63784.8
+2025-01-20,Monday,2025-01-19,Overnight,Single-Unit Trucks,1762,3.6,5074.56
+2025-01-20,Monday,2025-01-19,Overnight,Multi-Unit Trucks,323,5.4,1395.36
+2025-01-20,Monday,2025-01-19,Overnight,Buses,719,3.69,2122.49
+2025-01-20,Monday,2025-01-19,Overnight,Motorcycles,199,1.05,167.16
+2025-01-20,Monday,2025-01-19,Overnight,TLC Taxi/FHV,32783,1.13,29635.83
+2025-01-20,Monday,2025-01-19,Peak,Passenger Cars & Vans,176830,9.0,1273176.0
+2025-01-20,Monday,2025-01-19,Peak,Single-Unit Trucks,13141,14.4,151384.32
+2025-01-20,Monday,2025-01-19,Peak,Multi-Unit Trucks,1325,21.6,22896.0
+2025-01-20,Monday,2025-01-19,Peak,Buses,5289,14.76,62452.51
+2025-01-20,Monday,2025-01-19,Peak,Motorcycles,868,4.5,3124.8
+2025-01-20,Monday,2025-01-19,Peak,TLC Taxi/FHV,106899,1.13,96636.7
+2025-01-21,Tuesday,2025-01-19,Overnight,Passenger Cars & Vans,41500,2.25,74700.0
+2025-01-21,Tuesday,2025-01-19,Overnight,Single-Unit Trucks,2522,3.6,7263.36
+2025-01-21,Tuesday,2025-01-19,Overnight,Multi-Unit Trucks,476,5.4,2056.32
+2025-01-21,Tuesday,2025-01-19,Overnight,Buses,789,3.69,2329.13
+2025-01-21,Tuesday,2025-01-19,Overnight,Motorcycles,166,1.05,139.44
+2025-01-21,Tuesday,2025-01-19,Overnight,TLC Taxi/FHV,37799,1.13,34170.3
+2025-01-21,Tuesday,2025-01-19,Peak,Passenger Cars & Vans,235256,9.0,1693843.2
+2025-01-21,Tuesday,2025-01-19,Peak,Single-Unit Trucks,20579,14.4,237070.07
+2025-01-21,Tuesday,2025-01-19,Peak,Multi-Unit Trucks,1806,21.6,31207.68
+2025-01-21,Tuesday,2025-01-19,Peak,Buses,9541,14.76,112660.13
+2025-01-21,Tuesday,2025-01-19,Peak,Motorcycles,924,4.5,3326.4
+2025-01-21,Tuesday,2025-01-19,Peak,TLC Taxi/FHV,136153,1.13,123082.31
+2025-01-22,Wednesday,2025-01-19,Overnight,Passenger Cars & Vans,41737,2.25,75126.6
+2025-01-22,Wednesday,2025-01-19,Overnight,Single-Unit Trucks,2602,3.6,7493.76
+2025-01-22,Wednesday,2025-01-19,Overnight,Multi-Unit Trucks,526,5.4,2272.32
+2025-01-22,Wednesday,2025-01-19,Overnight,Buses,797,3.69,2352.74
+2025-01-22,Wednesday,2025-01-19,Overnight,Motorcycles,172,1.05,144.48
+2025-01-22,Wednesday,2025-01-19,Overnight,TLC Taxi/FHV,41293,1.13,37328.87
+2025-01-22,Wednesday,2025-01-19,Peak,Passenger Cars & Vans,238851,9.0,1719727.2
+2025-01-22,Wednesday,2025-01-19,Peak,Single-Unit Trucks,20579,14.4,237070.07
+2025-01-22,Wednesday,2025-01-19,Peak,Multi-Unit Trucks,1718,21.6,29687.04
+2025-01-22,Wednesday,2025-01-19,Peak,Buses,9796,14.76,115671.17
+2025-01-22,Wednesday,2025-01-19,Peak,Motorcycles,1003,4.5,3610.8
+2025-01-22,Wednesday,2025-01-19,Peak,TLC Taxi/FHV,138804,1.13,125478.82
+2025-01-23,Thursday,2025-01-19,Overnight,Passenger Cars & Vans,43039,2.25,77470.2
+2025-01-23,Thursday,2025-01-19,Overnight,Single-Unit Trucks,2566,3.6,7390.08
+2025-01-23,Thursday,2025-01-19,Overnight,Multi-Unit Trucks,547,5.4,2363.04
+2025-01-23,Thursday,2025-01-19,Overnight,Buses,803,3.69,2370.46
+2025-01-23,Thursday,2025-01-19,Overnight,Motorcycles,181,1.05,152.04
+2025-01-23,Thursday,2025-01-19,Overnight,TLC Taxi/FHV,46454,1.13,41994.42
+2025-01-23,Thursday,2025-01-19,Peak,Passenger Cars & Vans,244026,9.0,1756987.2
+2025-01-23,Thursday,2025-01-19,Peak,Single-Unit Trucks,21061,14.4,242622.71
+2025-01-23,Thursday,2025-01-19,Peak,Multi-Unit Trucks,1920,21.6,33177.6
+2025-01-23,Thursday,2025-01-19,Peak,Buses,9846,14.76,116261.57
+2025-01-23,Thursday,2025-01-19,Peak,Motorcycles,1245,4.5,4482.0
+2025-01-23,Thursday,2025-01-19,Peak,TLC Taxi/FHV,145371,1.13,131415.38
+2025-01-24,Friday,2025-01-19,Overnight,Passenger Cars & Vans,49268,2.25,88682.4
+2025-01-24,Friday,2025-01-19,Overnight,Single-Unit Trucks,2626,3.6,7562.88
+2025-01-24,Friday,2025-01-19,Overnight,Multi-Unit Trucks,545,5.4,2354.4
+2025-01-24,Friday,2025-01-19,Overnight,Buses,820,3.69,2420.64
+2025-01-24,Friday,2025-01-19,Overnight,Motorcycles,263,1.05,220.92
+2025-01-24,Friday,2025-01-19,Overnight,TLC Taxi/FHV,48168,1.13,43543.87
+2025-01-24,Friday,2025-01-19,Peak,Passenger Cars & Vans,237039,9.0,1706680.8
+2025-01-24,Friday,2025-01-19,Peak,Single-Unit Trucks,21252,14.4,244823.03
+2025-01-24,Friday,2025-01-19,Peak,Multi-Unit Trucks,1948,21.6,33661.44
+2025-01-24,Friday,2025-01-19,Peak,Buses,9514,14.76,112341.31
+2025-01-24,Friday,2025-01-19,Peak,Motorcycles,1349,4.5,4856.4
+2025-01-24,Friday,2025-01-19,Peak,TLC Taxi/FHV,137239,1.13,124064.06
+2025-01-25,Saturday,2025-01-19,Overnight,Passenger Cars & Vans,94282,2.25,169707.6
+2025-01-25,Saturday,2025-01-19,Overnight,Single-Unit Trucks,4535,3.6,13060.8
+2025-01-25,Saturday,2025-01-19,Overnight,Multi-Unit Trucks,720,5.4,3110.4
+2025-01-25,Saturday,2025-01-19,Overnight,Buses,1527,3.69,4507.7
+2025-01-25,Saturday,2025-01-19,Overnight,Motorcycles,389,1.05,326.76
+2025-01-25,Saturday,2025-01-19,Overnight,TLC Taxi/FHV,79959,1.13,72282.94
+2025-01-25,Saturday,2025-01-19,Peak,Passenger Cars & Vans,189462,9.0,1364126.4
+2025-01-25,Saturday,2025-01-19,Peak,Single-Unit Trucks,5472,14.4,63037.44
+2025-01-25,Saturday,2025-01-19,Peak,Multi-Unit Trucks,500,21.6,8640.0
+2025-01-25,Saturday,2025-01-19,Peak,Buses,3215,14.76,37962.72
+2025-01-25,Saturday,2025-01-19,Peak,Motorcycles,1215,4.5,4374.0
+2025-01-25,Saturday,2025-01-19,Peak,TLC Taxi/FHV,111137,1.13,100467.85
+2025-01-26,Sunday,2025-01-26,Overnight,Passenger Cars & Vans,77015,2.25,138627.0
+2025-01-26,Sunday,2025-01-26,Overnight,Single-Unit Trucks,2128,3.6,6128.64
+2025-01-26,Sunday,2025-01-26,Overnight,Multi-Unit Trucks,328,5.4,1416.96
+2025-01-26,Sunday,2025-01-26,Overnight,Buses,1285,3.69,3793.32
+2025-01-26,Sunday,2025-01-26,Overnight,Motorcycles,346,1.05,290.64
+2025-01-26,Sunday,2025-01-26,Overnight,TLC Taxi/FHV,72066,1.13,65147.66
+2025-01-26,Sunday,2025-01-26,Peak,Passenger Cars & Vans,170273,9.0,1225965.6
+2025-01-26,Sunday,2025-01-26,Peak,Single-Unit Trucks,2782,14.4,32048.64
+2025-01-26,Sunday,2025-01-26,Peak,Multi-Unit Trucks,303,21.6,5235.84
+2025-01-26,Sunday,2025-01-26,Peak,Buses,2636,14.76,31125.89
+2025-01-26,Sunday,2025-01-26,Peak,Motorcycles,1126,4.5,4053.6
+2025-01-26,Sunday,2025-01-26,Peak,TLC Taxi/FHV,101814,1.13,92039.86
+2025-01-27,Monday,2025-01-26,Overnight,Passenger Cars & Vans,39297,2.25,70734.6
+2025-01-27,Monday,2025-01-26,Overnight,Single-Unit Trucks,2540,3.6,7315.2
+2025-01-27,Monday,2025-01-26,Overnight,Multi-Unit Trucks,550,5.4,2376.0
+2025-01-27,Monday,2025-01-26,Overnight,Buses,822,3.69,2426.54
+2025-01-27,Monday,2025-01-26,Overnight,Motorcycles,187,1.05,157.08
+2025-01-27,Monday,2025-01-26,Overnight,TLC Taxi/FHV,33129,1.13,29948.62
+2025-01-27,Monday,2025-01-26,Peak,Passenger Cars & Vans,227144,9.0,1635436.8
+2025-01-27,Monday,2025-01-26,Peak,Single-Unit Trucks,21025,14.4,242207.99
+2025-01-27,Monday,2025-01-26,Peak,Multi-Unit Trucks,1947,21.6,33644.16
+2025-01-27,Monday,2025-01-26,Peak,Buses,9638,14.76,113805.51
+2025-01-27,Monday,2025-01-26,Peak,Motorcycles,1285,4.5,4626.0
+2025-01-27,Monday,2025-01-26,Peak,TLC Taxi/FHV,128769,1.13,116407.18
+2025-01-28,Tuesday,2025-01-26,Overnight,Passenger Cars & Vans,41077,2.25,73938.6
+2025-01-28,Tuesday,2025-01-26,Overnight,Single-Unit Trucks,2647,3.6,7623.36
+2025-01-28,Tuesday,2025-01-26,Overnight,Multi-Unit Trucks,565,5.4,2440.8
+2025-01-28,Tuesday,2025-01-26,Overnight,Buses,886,3.69,2615.47
+2025-01-28,Tuesday,2025-01-26,Overnight,Motorcycles,184,1.05,154.56
+2025-01-28,Tuesday,2025-01-26,Overnight,TLC Taxi/FHV,38703,1.13,34987.51
+2025-01-28,Tuesday,2025-01-26,Peak,Passenger Cars & Vans,236022,9.0,1699358.4
+2025-01-28,Tuesday,2025-01-26,Peak,Single-Unit Trucks,21458,14.4,247196.15
+2025-01-28,Tuesday,2025-01-26,Peak,Multi-Unit Trucks,1875,21.6,32400.0
+2025-01-28,Tuesday,2025-01-26,Peak,Buses,9767,14.76,115328.74
+2025-01-28,Tuesday,2025-01-26,Peak,Motorcycles,1417,4.5,5101.2
+2025-01-28,Tuesday,2025-01-26,Peak,TLC Taxi/FHV,134268,1.13,121378.27
+2025-01-29,Wednesday,2025-01-26,Overnight,Passenger Cars & Vans,41799,2.25,75238.2
+2025-01-29,Wednesday,2025-01-26,Overnight,Single-Unit Trucks,2786,3.6,8023.68
+2025-01-29,Wednesday,2025-01-26,Overnight,Multi-Unit Trucks,571,5.4,2466.72
+2025-01-29,Wednesday,2025-01-26,Overnight,Buses,823,3.69,2429.5
+2025-01-29,Wednesday,2025-01-26,Overnight,Motorcycles,205,1.05,172.2
+2025-01-29,Wednesday,2025-01-26,Overnight,TLC Taxi/FHV,42986,1.13,38859.34
+2025-01-29,Wednesday,2025-01-26,Peak,Passenger Cars & Vans,238632,9.0,1718150.4
+2025-01-29,Wednesday,2025-01-26,Peak,Single-Unit Trucks,20666,14.4,238072.31
+2025-01-29,Wednesday,2025-01-26,Peak,Multi-Unit Trucks,1879,21.6,32469.12
+2025-01-29,Wednesday,2025-01-26,Peak,Buses,7633,14.76,90130.47
+2025-01-29,Wednesday,2025-01-26,Peak,Motorcycles,1545,4.5,5562.0
+2025-01-29,Wednesday,2025-01-26,Peak,TLC Taxi/FHV,139579,1.13,126179.42
+2025-01-30,Thursday,2025-01-26,Overnight,Passenger Cars & Vans,43671,2.25,78607.8
+2025-01-30,Thursday,2025-01-26,Overnight,Single-Unit Trucks,2945,3.6,8481.6
+2025-01-30,Thursday,2025-01-26,Overnight,Multi-Unit Trucks,638,5.4,2756.16
+2025-01-30,Thursday,2025-01-26,Overnight,Buses,821,3.69,2423.59
+2025-01-30,Thursday,2025-01-26,Overnight,Motorcycles,230,1.05,193.2
+2025-01-30,Thursday,2025-01-26,Overnight,TLC Taxi/FHV,48394,1.13,43748.18
+2025-01-30,Thursday,2025-01-26,Peak,Passenger Cars & Vans,245462,9.0,1767326.4
+2025-01-30,Thursday,2025-01-26,Peak,Single-Unit Trucks,21926,14.4,252587.51
+2025-01-30,Thursday,2025-01-26,Peak,Multi-Unit Trucks,1949,21.6,33678.72
+2025-01-30,Thursday,2025-01-26,Peak,Buses,9952,14.76,117513.22
+2025-01-30,Thursday,2025-01-26,Peak,Motorcycles,1453,4.5,5230.8
+2025-01-30,Thursday,2025-01-26,Peak,TLC Taxi/FHV,145247,1.13,131303.29
+2025-01-31,Friday,2025-01-26,Overnight,Passenger Cars & Vans,47718,2.25,85892.4
+2025-01-31,Friday,2025-01-26,Overnight,Single-Unit Trucks,2767,3.6,7968.96
+2025-01-31,Friday,2025-01-26,Overnight,Multi-Unit Trucks,625,5.4,2700.0
+2025-01-31,Friday,2025-01-26,Overnight,Buses,822,3.69,2426.54
+2025-01-31,Friday,2025-01-26,Overnight,Motorcycles,270,1.05,226.8
+2025-01-31,Friday,2025-01-26,Overnight,TLC Taxi/FHV,49046,1.13,44337.58
+2025-01-31,Friday,2025-01-26,Peak,Passenger Cars & Vans,232751,9.0,1675807.2
+2025-01-31,Friday,2025-01-26,Peak,Single-Unit Trucks,21689,14.4,249857.27
+2025-01-31,Friday,2025-01-26,Peak,Multi-Unit Trucks,1921,21.6,33194.88
+2025-01-31,Friday,2025-01-26,Peak,Buses,9421,14.76,111243.17
+2025-01-31,Friday,2025-01-26,Peak,Motorcycles,1391,4.5,5007.6
+2025-01-31,Friday,2025-01-26,Peak,TLC Taxi/FHV,136796,1.13,123663.58
+2025-02-01,Saturday,2025-01-26,Overnight,Passenger Cars & Vans,92163,2.25,165893.4
+2025-02-01,Saturday,2025-01-26,Overnight,Single-Unit Trucks,4752,3.6,13685.76
+2025-02-01,Saturday,2025-01-26,Overnight,Multi-Unit Trucks,731,5.4,3157.92
+2025-02-01,Saturday,2025-01-26,Overnight,Buses,1469,3.69,4336.49
+2025-02-01,Saturday,2025-01-26,Overnight,Motorcycles,455,1.05,382.2
+2025-02-01,Saturday,2025-01-26,Overnight,TLC Taxi/FHV,79577,1.13,71937.61
+2025-02-01,Saturday,2025-01-26,Peak,Passenger Cars & Vans,182189,9.0,1311760.8
+2025-02-01,Saturday,2025-01-26,Peak,Single-Unit Trucks,5412,14.4,62346.24
+2025-02-01,Saturday,2025-01-26,Peak,Multi-Unit Trucks,479,21.6,8277.12
+2025-02-01,Saturday,2025-01-26,Peak,Buses,3131,14.76,36970.85
+2025-02-01,Saturday,2025-01-26,Peak,Motorcycles,1280,4.5,4608.0
+2025-02-01,Saturday,2025-01-26,Peak,TLC Taxi/FHV,108191,1.13,97804.66
+2025-02-02,Sunday,2025-02-02,Overnight,Passenger Cars & Vans,76838,2.25,138308.4
+2025-02-02,Sunday,2025-02-02,Overnight,Single-Unit Trucks,2318,3.6,6675.84
+2025-02-02,Sunday,2025-02-02,Overnight,Multi-Unit Trucks,317,5.4,1369.44
+2025-02-02,Sunday,2025-02-02,Overnight,Buses,1327,3.69,3917.3
+2025-02-02,Sunday,2025-02-02,Overnight,Motorcycles,325,1.05,273.0
+2025-02-02,Sunday,2025-02-02,Overnight,TLC Taxi/FHV,71806,1.13,64912.62
+2025-02-02,Sunday,2025-02-02,Peak,Passenger Cars & Vans,174564,9.0,1256860.8
+2025-02-02,Sunday,2025-02-02,Peak,Single-Unit Trucks,3086,14.4,35550.72
+2025-02-02,Sunday,2025-02-02,Peak,Multi-Unit Trucks,292,21.6,5045.76
+2025-02-02,Sunday,2025-02-02,Peak,Buses,2699,14.76,31869.79
+2025-02-02,Sunday,2025-02-02,Peak,Motorcycles,985,4.5,3546.0
+2025-02-02,Sunday,2025-02-02,Peak,TLC Taxi/FHV,100313,1.13,90682.95
+2025-02-03,Monday,2025-02-02,Overnight,Passenger Cars & Vans,38650,2.25,69570.0
+2025-02-03,Monday,2025-02-02,Overnight,Single-Unit Trucks,2585,3.6,7444.8
+2025-02-03,Monday,2025-02-02,Overnight,Multi-Unit Trucks,538,5.4,2324.16
+2025-02-03,Monday,2025-02-02,Overnight,Buses,840,3.69,2479.68
+2025-02-03,Monday,2025-02-02,Overnight,Motorcycles,230,1.05,193.2
+2025-02-03,Monday,2025-02-02,Overnight,TLC Taxi/FHV,33960,1.13,30699.84
+2025-02-03,Monday,2025-02-02,Peak,Passenger Cars & Vans,226434,9.0,1630324.8
+2025-02-03,Monday,2025-02-02,Peak,Single-Unit Trucks,21109,14.4,243175.67
+2025-02-03,Monday,2025-02-02,Peak,Multi-Unit Trucks,1842,21.6,31829.76
+2025-02-03,Monday,2025-02-02,Peak,Buses,9902,14.76,116922.82
+2025-02-03,Monday,2025-02-02,Peak,Motorcycles,1318,4.5,4744.8
+2025-02-03,Monday,2025-02-02,Peak,TLC Taxi/FHV,129179,1.13,116777.82
+2025-02-04,Tuesday,2025-02-02,Overnight,Passenger Cars & Vans,39906,2.25,71830.8
+2025-02-04,Tuesday,2025-02-02,Overnight,Single-Unit Trucks,2736,3.6,7879.68
+2025-02-04,Tuesday,2025-02-02,Overnight,Multi-Unit Trucks,629,5.4,2717.28
+2025-02-04,Tuesday,2025-02-02,Overnight,Buses,903,3.69,2665.66
+2025-02-04,Tuesday,2025-02-02,Overnight,Motorcycles,230,1.05,193.2
+2025-02-04,Tuesday,2025-02-02,Overnight,TLC Taxi/FHV,40273,1.13,36406.79
+2025-02-04,Tuesday,2025-02-02,Peak,Passenger Cars & Vans,239230,9.0,1722456.0
+2025-02-04,Tuesday,2025-02-02,Peak,Single-Unit Trucks,21580,14.4,248601.59
+2025-02-04,Tuesday,2025-02-02,Peak,Multi-Unit Trucks,2051,21.6,35441.28
+2025-02-04,Tuesday,2025-02-02,Peak,Buses,9775,14.76,115423.2
+2025-02-04,Tuesday,2025-02-02,Peak,Motorcycles,1558,4.5,5608.8
+2025-02-04,Tuesday,2025-02-02,Peak,TLC Taxi/FHV,136681,1.13,123559.62
+2025-02-05,Wednesday,2025-02-02,Overnight,Passenger Cars & Vans,40615,2.25,73107.0
+2025-02-05,Wednesday,2025-02-02,Overnight,Single-Unit Trucks,2675,3.6,7704.0
+2025-02-05,Wednesday,2025-02-02,Overnight,Multi-Unit Trucks,623,5.4,2691.36
+2025-02-05,Wednesday,2025-02-02,Overnight,Buses,823,3.69,2429.5
+2025-02-05,Wednesday,2025-02-02,Overnight,Motorcycles,213,1.05,178.92
+2025-02-05,Wednesday,2025-02-02,Overnight,TLC Taxi/FHV,44547,1.13,40270.49
+2025-02-05,Wednesday,2025-02-02,Peak,Passenger Cars & Vans,238827,9.0,1719554.4
+2025-02-05,Wednesday,2025-02-02,Peak,Single-Unit Trucks,21546,14.4,248209.91
+2025-02-05,Wednesday,2025-02-02,Peak,Multi-Unit Trucks,2017,21.6,34853.76
+2025-02-05,Wednesday,2025-02-02,Peak,Buses,9576,14.76,113073.41
+2025-02-05,Wednesday,2025-02-02,Peak,Motorcycles,1432,4.5,5155.2
+2025-02-05,Wednesday,2025-02-02,Peak,TLC Taxi/FHV,143618,1.13,129830.67
+2025-02-06,Thursday,2025-02-02,Overnight,Passenger Cars & Vans,39781,2.25,71605.8
+2025-02-06,Thursday,2025-02-02,Overnight,Single-Unit Trucks,2682,3.6,7724.16
+2025-02-06,Thursday,2025-02-02,Overnight,Multi-Unit Trucks,495,5.4,2138.4
+2025-02-06,Thursday,2025-02-02,Overnight,Buses,786,3.69,2320.27
+2025-02-06,Thursday,2025-02-02,Overnight,Motorcycles,242,1.05,203.28
+2025-02-06,Thursday,2025-02-02,Overnight,TLC Taxi/FHV,46793,1.13,42300.87
+2025-02-06,Thursday,2025-02-02,Peak,Passenger Cars & Vans,214253,9.0,1542621.6
+2025-02-06,Thursday,2025-02-02,Peak,Single-Unit Trucks,19707,14.4,227024.63
+2025-02-06,Thursday,2025-02-02,Peak,Multi-Unit Trucks,1760,21.6,30412.8
+2025-02-06,Thursday,2025-02-02,Peak,Buses,9206,14.76,108704.45
+2025-02-06,Thursday,2025-02-02,Peak,Motorcycles,999,4.5,3596.4
+2025-02-06,Thursday,2025-02-02,Peak,TLC Taxi/FHV,144471,1.13,130601.78
+2025-02-07,Friday,2025-02-02,Overnight,Passenger Cars & Vans,47164,2.25,84895.2
+2025-02-07,Friday,2025-02-02,Overnight,Single-Unit Trucks,2531,3.6,7289.28
+2025-02-07,Friday,2025-02-02,Overnight,Multi-Unit Trucks,547,5.4,2363.04
+2025-02-07,Friday,2025-02-02,Overnight,Buses,792,3.69,2337.98
+2025-02-07,Friday,2025-02-02,Overnight,Motorcycles,302,1.05,253.68
+2025-02-07,Friday,2025-02-02,Overnight,TLC Taxi/FHV,49147,1.13,44428.89
+2025-02-07,Friday,2025-02-02,Peak,Passenger Cars & Vans,241456,9.0,1738483.2
+2025-02-07,Friday,2025-02-02,Peak,Single-Unit Trucks,21944,14.4,252794.87
+2025-02-07,Friday,2025-02-02,Peak,Multi-Unit Trucks,2061,21.6,35614.08
+2025-02-07,Friday,2025-02-02,Peak,Buses,9343,14.76,110322.15
+2025-02-07,Friday,2025-02-02,Peak,Motorcycles,1529,4.5,5504.4
+2025-02-07,Friday,2025-02-02,Peak,TLC Taxi/FHV,138930,1.13,125592.72
+2025-02-08,Saturday,2025-02-02,Overnight,Passenger Cars & Vans,78526,2.25,141346.8
+2025-02-08,Saturday,2025-02-02,Overnight,Single-Unit Trucks,4719,3.6,13590.72
+2025-02-08,Saturday,2025-02-02,Overnight,Multi-Unit Trucks,720,5.4,3110.4
+2025-02-08,Saturday,2025-02-02,Overnight,Buses,1290,3.69,3808.08
+2025-02-08,Saturday,2025-02-02,Overnight,Motorcycles,281,1.05,236.04
+2025-02-08,Saturday,2025-02-02,Overnight,TLC Taxi/FHV,71255,1.13,64414.52
+2025-02-08,Saturday,2025-02-02,Peak,Passenger Cars & Vans,171369,9.0,1233856.8
+2025-02-08,Saturday,2025-02-02,Peak,Single-Unit Trucks,5288,14.4,60917.76
+2025-02-08,Saturday,2025-02-02,Peak,Multi-Unit Trucks,511,21.6,8830.08
+2025-02-08,Saturday,2025-02-02,Peak,Buses,2685,14.76,31704.48
+2025-02-08,Saturday,2025-02-02,Peak,Motorcycles,1196,4.5,4305.6
+2025-02-08,Saturday,2025-02-02,Peak,TLC Taxi/FHV,109578,1.13,99058.51
+2025-02-09,Sunday,2025-02-09,Overnight,Passenger Cars & Vans,64495,2.25,116091.0
+2025-02-09,Sunday,2025-02-09,Overnight,Single-Unit Trucks,2208,3.6,6359.04
+2025-02-09,Sunday,2025-02-09,Overnight,Multi-Unit Trucks,271,5.4,1170.72
+2025-02-09,Sunday,2025-02-09,Overnight,Buses,995,3.69,2937.24
+2025-02-09,Sunday,2025-02-09,Overnight,Motorcycles,270,1.05,226.8
+2025-02-09,Sunday,2025-02-09,Overnight,TLC Taxi/FHV,66858,1.13,60439.63
+2025-02-09,Sunday,2025-02-09,Peak,Passenger Cars & Vans,131735,9.0,948492.0
+2025-02-09,Sunday,2025-02-09,Peak,Single-Unit Trucks,2836,14.4,32670.72
+2025-02-09,Sunday,2025-02-09,Peak,Multi-Unit Trucks,257,21.6,4440.96
+2025-02-09,Sunday,2025-02-09,Peak,Buses,2314,14.76,27323.71
+2025-02-09,Sunday,2025-02-09,Peak,Motorcycles,1012,4.5,3643.2
+2025-02-09,Sunday,2025-02-09,Peak,TLC Taxi/FHV,97674,1.13,88297.3
+2025-02-10,Monday,2025-02-09,Overnight,Passenger Cars & Vans,38824,2.25,69883.2
+2025-02-10,Monday,2025-02-09,Overnight,Single-Unit Trucks,2511,3.6,7231.68
+2025-02-10,Monday,2025-02-09,Overnight,Multi-Unit Trucks,521,5.4,2250.72
+2025-02-10,Monday,2025-02-09,Overnight,Buses,783,3.69,2311.42
+2025-02-10,Monday,2025-02-09,Overnight,Motorcycles,206,1.05,173.04
+2025-02-10,Monday,2025-02-09,Overnight,TLC Taxi/FHV,36493,1.13,32989.67
+2025-02-10,Monday,2025-02-09,Peak,Passenger Cars & Vans,225838,9.0,1626033.6
+2025-02-10,Monday,2025-02-09,Peak,Single-Unit Trucks,20526,14.4,236459.51
+2025-02-10,Monday,2025-02-09,Peak,Multi-Unit Trucks,1823,21.6,31501.44
+2025-02-10,Monday,2025-02-09,Peak,Buses,9314,14.76,109979.71
+2025-02-10,Monday,2025-02-09,Peak,Motorcycles,1290,4.5,4644.0
+2025-02-10,Monday,2025-02-09,Peak,TLC Taxi/FHV,131903,1.13,119240.31
+2025-02-11,Tuesday,2025-02-09,Overnight,Passenger Cars & Vans,35714,2.25,64285.2
+2025-02-11,Tuesday,2025-02-09,Overnight,Single-Unit Trucks,2693,3.6,7755.84
+2025-02-11,Tuesday,2025-02-09,Overnight,Multi-Unit Trucks,561,5.4,2423.52
+2025-02-11,Tuesday,2025-02-09,Overnight,Buses,747,3.69,2205.14
+2025-02-11,Tuesday,2025-02-09,Overnight,Motorcycles,145,1.05,121.8
+2025-02-11,Tuesday,2025-02-09,Overnight,TLC Taxi/FHV,37122,1.13,33558.29
+2025-02-11,Tuesday,2025-02-09,Peak,Passenger Cars & Vans,232031,9.0,1670623.2
+2025-02-11,Tuesday,2025-02-09,Peak,Single-Unit Trucks,21614,14.4,248993.27
+2025-02-11,Tuesday,2025-02-09,Peak,Multi-Unit Trucks,1983,21.6,34266.24
+2025-02-11,Tuesday,2025-02-09,Peak,Buses,9533,14.76,112565.67
+2025-02-11,Tuesday,2025-02-09,Peak,Motorcycles,1279,4.5,4604.4
+2025-02-11,Tuesday,2025-02-09,Peak,TLC Taxi/FHV,137939,1.13,124696.86
+2025-02-12,Wednesday,2025-02-09,Overnight,Passenger Cars & Vans,36778,2.25,66200.4
+2025-02-12,Wednesday,2025-02-09,Overnight,Single-Unit Trucks,2647,3.6,7623.36
+2025-02-12,Wednesday,2025-02-09,Overnight,Multi-Unit Trucks,522,5.4,2255.04
+2025-02-12,Wednesday,2025-02-09,Overnight,Buses,789,3.69,2329.13
+2025-02-12,Wednesday,2025-02-09,Overnight,Motorcycles,166,1.05,139.44
+2025-02-12,Wednesday,2025-02-09,Overnight,TLC Taxi/FHV,41947,1.13,37920.09
+2025-02-12,Wednesday,2025-02-09,Peak,Passenger Cars & Vans,223899,9.0,1612072.8
+2025-02-12,Wednesday,2025-02-09,Peak,Single-Unit Trucks,20719,14.4,238682.87
+2025-02-12,Wednesday,2025-02-09,Peak,Multi-Unit Trucks,1860,21.6,32140.8
+2025-02-12,Wednesday,2025-02-09,Peak,Buses,9533,14.76,112565.67
+2025-02-12,Wednesday,2025-02-09,Peak,Motorcycles,1214,4.5,4370.4
+2025-02-12,Wednesday,2025-02-09,Peak,TLC Taxi/FHV,143113,1.13,129374.15
+2025-02-13,Thursday,2025-02-09,Overnight,Passenger Cars & Vans,41956,2.25,75520.8
+2025-02-13,Thursday,2025-02-09,Overnight,Single-Unit Trucks,2768,3.6,7971.84
+2025-02-13,Thursday,2025-02-09,Overnight,Multi-Unit Trucks,633,5.4,2734.56
+2025-02-13,Thursday,2025-02-09,Overnight,Buses,839,3.69,2476.73
+2025-02-13,Thursday,2025-02-09,Overnight,Motorcycles,233,1.05,195.72
+2025-02-13,Thursday,2025-02-09,Overnight,TLC Taxi/FHV,47822,1.13,43231.09
+2025-02-13,Thursday,2025-02-09,Peak,Passenger Cars & Vans,239644,9.0,1725436.8
+2025-02-13,Thursday,2025-02-09,Peak,Single-Unit Trucks,21070,14.4,242726.39
+2025-02-13,Thursday,2025-02-09,Peak,Multi-Unit Trucks,1945,21.6,33609.6
+2025-02-13,Thursday,2025-02-09,Peak,Buses,9662,14.76,114088.9
+2025-02-13,Thursday,2025-02-09,Peak,Motorcycles,1278,4.5,4600.8
+2025-02-13,Thursday,2025-02-09,Peak,TLC Taxi/FHV,144055,1.13,130225.72
+2025-02-14,Friday,2025-02-09,Overnight,Passenger Cars & Vans,54479,2.25,98062.2
+2025-02-14,Friday,2025-02-09,Overnight,Single-Unit Trucks,2841,3.6,8182.08
+2025-02-14,Friday,2025-02-09,Overnight,Multi-Unit Trucks,602,5.4,2600.64
+2025-02-14,Friday,2025-02-09,Overnight,Buses,786,3.69,2320.27
+2025-02-14,Friday,2025-02-09,Overnight,Motorcycles,306,1.05,257.04
+2025-02-14,Friday,2025-02-09,Overnight,TLC Taxi/FHV,52474,1.13,47436.5
+2025-02-14,Friday,2025-02-09,Peak,Passenger Cars & Vans,252690,9.0,1819368.0
+2025-02-14,Friday,2025-02-09,Peak,Single-Unit Trucks,21655,14.4,249465.59
+2025-02-14,Friday,2025-02-09,Peak,Multi-Unit Trucks,2062,21.6,35631.36
+2025-02-14,Friday,2025-02-09,Peak,Buses,9140,14.76,107925.12
+2025-02-14,Friday,2025-02-09,Peak,Motorcycles,1566,4.5,5637.6
+2025-02-14,Friday,2025-02-09,Peak,TLC Taxi/FHV,135207,1.13,122227.13
+2025-02-15,Saturday,2025-02-09,Overnight,Passenger Cars & Vans,85158,2.25,153284.4
+2025-02-15,Saturday,2025-02-09,Overnight,Single-Unit Trucks,4410,3.6,12700.8
+2025-02-15,Saturday,2025-02-09,Overnight,Multi-Unit Trucks,794,5.4,3430.08
+2025-02-15,Saturday,2025-02-09,Overnight,Buses,1466,3.69,4327.63
+2025-02-15,Saturday,2025-02-09,Overnight,Motorcycles,318,1.05,267.12
+2025-02-15,Saturday,2025-02-09,Overnight,TLC Taxi/FHV,78360,1.13,70837.44
+2025-02-15,Saturday,2025-02-09,Peak,Passenger Cars & Vans,163340,9.0,1176048.0
+2025-02-15,Saturday,2025-02-09,Peak,Single-Unit Trucks,5237,14.4,60330.24
+2025-02-15,Saturday,2025-02-09,Peak,Multi-Unit Trucks,579,21.6,10005.12
+2025-02-15,Saturday,2025-02-09,Peak,Buses,2779,14.76,32814.43
+2025-02-15,Saturday,2025-02-09,Peak,Motorcycles,944,4.5,3398.4
+2025-02-15,Saturday,2025-02-09,Peak,TLC Taxi/FHV,107101,1.13,96819.3
+2025-02-16,Sunday,2025-02-16,Overnight,Passenger Cars & Vans,69099,2.25,124378.2
+2025-02-16,Sunday,2025-02-16,Overnight,Single-Unit Trucks,2062,3.6,5938.56
+2025-02-16,Sunday,2025-02-16,Overnight,Multi-Unit Trucks,340,5.4,1468.8
+2025-02-16,Sunday,2025-02-16,Overnight,Buses,1233,3.69,3639.82
+2025-02-16,Sunday,2025-02-16,Overnight,Motorcycles,303,1.05,254.52
+2025-02-16,Sunday,2025-02-16,Overnight,TLC Taxi/FHV,68214,1.13,61665.46
+2025-02-16,Sunday,2025-02-16,Peak,Passenger Cars & Vans,156917,9.0,1129802.4
+2025-02-16,Sunday,2025-02-16,Peak,Single-Unit Trucks,3011,14.4,34686.72
+2025-02-16,Sunday,2025-02-16,Peak,Multi-Unit Trucks,361,21.6,6238.08
+2025-02-16,Sunday,2025-02-16,Peak,Buses,2761,14.76,32601.89
+2025-02-16,Sunday,2025-02-16,Peak,Motorcycles,805,4.5,2898.0
+2025-02-16,Sunday,2025-02-16,Peak,TLC Taxi/FHV,97021,1.13,87706.98
+2025-02-17,Monday,2025-02-16,Overnight,Passenger Cars & Vans,38517,2.25,69330.6
+2025-02-17,Monday,2025-02-16,Overnight,Single-Unit Trucks,1964,3.6,5656.32
+2025-02-17,Monday,2025-02-16,Overnight,Multi-Unit Trucks,441,5.4,1905.12
+2025-02-17,Monday,2025-02-16,Overnight,Buses,774,3.69,2284.85
+2025-02-17,Monday,2025-02-16,Overnight,Motorcycles,217,1.05,182.28
+2025-02-17,Monday,2025-02-16,Overnight,TLC Taxi/FHV,37029,1.13,33474.22
+2025-02-17,Monday,2025-02-16,Peak,Passenger Cars & Vans,196508,9.0,1414857.6
+2025-02-17,Monday,2025-02-16,Peak,Single-Unit Trucks,13148,14.4,151464.96
+2025-02-17,Monday,2025-02-16,Peak,Multi-Unit Trucks,1358,21.6,23466.24
+2025-02-17,Monday,2025-02-16,Peak,Buses,5061,14.76,59760.29
+2025-02-17,Monday,2025-02-16,Peak,Motorcycles,1134,4.5,4082.4
+2025-02-17,Monday,2025-02-16,Peak,TLC Taxi/FHV,118477,1.13,107103.21
+2025-02-18,Tuesday,2025-02-16,Overnight,Passenger Cars & Vans,39355,2.25,70839.0
+2025-02-18,Tuesday,2025-02-16,Overnight,Single-Unit Trucks,2581,3.6,7433.28
+2025-02-18,Tuesday,2025-02-16,Overnight,Multi-Unit Trucks,482,5.4,2082.24
+2025-02-18,Tuesday,2025-02-16,Overnight,Buses,829,3.69,2447.21
+2025-02-18,Tuesday,2025-02-16,Overnight,Motorcycles,191,1.05,160.44
+2025-02-18,Tuesday,2025-02-16,Overnight,TLC Taxi/FHV,39265,1.13,35495.56
+2025-02-18,Tuesday,2025-02-16,Peak,Passenger Cars & Vans,232414,9.0,1673380.8
+2025-02-18,Tuesday,2025-02-16,Peak,Single-Unit Trucks,20301,14.4,233867.51
+2025-02-18,Tuesday,2025-02-16,Peak,Multi-Unit Trucks,1768,21.6,30551.04
+2025-02-18,Tuesday,2025-02-16,Peak,Buses,7456,14.76,88040.45
+2025-02-18,Tuesday,2025-02-16,Peak,Motorcycles,1034,4.5,3722.4
+2025-02-18,Tuesday,2025-02-16,Peak,TLC Taxi/FHV,140545,1.13,127052.68
+2025-02-19,Wednesday,2025-02-16,Overnight,Passenger Cars & Vans,40237,2.25,72426.6
+2025-02-19,Wednesday,2025-02-16,Overnight,Single-Unit Trucks,2589,3.6,7456.32
+2025-02-19,Wednesday,2025-02-16,Overnight,Multi-Unit Trucks,531,5.4,2293.92
+2025-02-19,Wednesday,2025-02-16,Overnight,Buses,785,3.69,2317.32
+2025-02-19,Wednesday,2025-02-16,Overnight,Motorcycles,199,1.05,167.16
+2025-02-19,Wednesday,2025-02-16,Overnight,TLC Taxi/FHV,42506,1.13,38425.42
+2025-02-19,Wednesday,2025-02-16,Peak,Passenger Cars & Vans,233676,9.0,1682467.2
+2025-02-19,Wednesday,2025-02-16,Peak,Single-Unit Trucks,19939,14.4,229697.27
+2025-02-19,Wednesday,2025-02-16,Peak,Multi-Unit Trucks,1571,21.6,27146.88
+2025-02-19,Wednesday,2025-02-16,Peak,Buses,8033,14.76,94853.67
+2025-02-19,Wednesday,2025-02-16,Peak,Motorcycles,1189,4.5,4280.4
+2025-02-19,Wednesday,2025-02-16,Peak,TLC Taxi/FHV,141697,1.13,128094.09
+2025-02-20,Thursday,2025-02-16,Overnight,Passenger Cars & Vans,41503,2.25,74705.4
+2025-02-20,Thursday,2025-02-16,Overnight,Single-Unit Trucks,2773,3.6,7986.24
+2025-02-20,Thursday,2025-02-16,Overnight,Multi-Unit Trucks,463,5.4,2000.16
+2025-02-20,Thursday,2025-02-16,Overnight,Buses,821,3.69,2423.59
+2025-02-20,Thursday,2025-02-16,Overnight,Motorcycles,192,1.05,161.28
+2025-02-20,Thursday,2025-02-16,Overnight,TLC Taxi/FHV,45873,1.13,41469.19
+2025-02-20,Thursday,2025-02-16,Peak,Passenger Cars & Vans,236618,9.0,1703649.6
+2025-02-20,Thursday,2025-02-16,Peak,Single-Unit Trucks,20462,14.4,235722.23
+2025-02-20,Thursday,2025-02-16,Peak,Multi-Unit Trucks,1437,21.6,24831.36
+2025-02-20,Thursday,2025-02-16,Peak,Buses,8072,14.76,95314.18
+2025-02-20,Thursday,2025-02-16,Peak,Motorcycles,1131,4.5,4071.6
+2025-02-20,Thursday,2025-02-16,Peak,TLC Taxi/FHV,145449,1.13,131485.9
+2025-02-21,Friday,2025-02-16,Overnight,Passenger Cars & Vans,47527,2.25,85548.6
+2025-02-21,Friday,2025-02-16,Overnight,Single-Unit Trucks,2572,3.6,7407.36
+2025-02-21,Friday,2025-02-16,Overnight,Multi-Unit Trucks,435,5.4,1879.2
+2025-02-21,Friday,2025-02-16,Overnight,Buses,784,3.69,2314.37
+2025-02-21,Friday,2025-02-16,Overnight,Motorcycles,268,1.05,225.12
+2025-02-21,Friday,2025-02-16,Overnight,TLC Taxi/FHV,49769,1.13,44991.18
+2025-02-21,Friday,2025-02-16,Peak,Passenger Cars & Vans,235147,9.0,1693058.4
+2025-02-21,Friday,2025-02-16,Peak,Single-Unit Trucks,20507,14.4,236240.63
+2025-02-21,Friday,2025-02-16,Peak,Multi-Unit Trucks,1492,21.6,25781.76
+2025-02-21,Friday,2025-02-16,Peak,Buses,7739,14.76,91382.11
+2025-02-21,Friday,2025-02-16,Peak,Motorcycles,1316,4.5,4737.6
+2025-02-21,Friday,2025-02-16,Peak,TLC Taxi/FHV,138193,1.13,124926.47
+2025-02-22,Saturday,2025-02-16,Overnight,Passenger Cars & Vans,91451,2.25,164611.8
+2025-02-22,Saturday,2025-02-16,Overnight,Single-Unit Trucks,4354,3.6,12539.52
+2025-02-22,Saturday,2025-02-16,Overnight,Multi-Unit Trucks,600,5.4,2592.0
+2025-02-22,Saturday,2025-02-16,Overnight,Buses,1415,3.69,4177.08
+2025-02-22,Saturday,2025-02-16,Overnight,Motorcycles,427,1.05,358.68
+2025-02-22,Saturday,2025-02-16,Overnight,TLC Taxi/FHV,80822,1.13,73063.09
+2025-02-22,Saturday,2025-02-16,Peak,Passenger Cars & Vans,186404,9.0,1342108.8
+2025-02-22,Saturday,2025-02-16,Peak,Single-Unit Trucks,4826,14.4,55595.52
+2025-02-22,Saturday,2025-02-16,Peak,Multi-Unit Trucks,409,21.6,7067.52
+2025-02-22,Saturday,2025-02-16,Peak,Buses,3199,14.76,37773.79
+2025-02-22,Saturday,2025-02-16,Peak,Motorcycles,1198,4.5,4312.8
+2025-02-22,Saturday,2025-02-16,Peak,TLC Taxi/FHV,109909,1.13,99357.74
+2025-02-23,Sunday,2025-02-23,Overnight,Passenger Cars & Vans,76315,2.25,137367.0
+2025-02-23,Sunday,2025-02-23,Overnight,Single-Unit Trucks,2049,3.6,5901.12
+2025-02-23,Sunday,2025-02-23,Overnight,Multi-Unit Trucks,327,5.4,1412.64
+2025-02-23,Sunday,2025-02-23,Overnight,Buses,1230,3.69,3630.96
+2025-02-23,Sunday,2025-02-23,Overnight,Motorcycles,431,1.05,362.04
+2025-02-23,Sunday,2025-02-23,Overnight,TLC Taxi/FHV,73336,1.13,66295.74
+2025-02-23,Sunday,2025-02-23,Peak,Passenger Cars & Vans,181183,9.0,1304517.6
+2025-02-23,Sunday,2025-02-23,Peak,Single-Unit Trucks,2719,14.4,31322.88
+2025-02-23,Sunday,2025-02-23,Peak,Multi-Unit Trucks,275,21.6,4752.0
+2025-02-23,Sunday,2025-02-23,Peak,Buses,2775,14.76,32767.2
+2025-02-23,Sunday,2025-02-23,Peak,Motorcycles,1334,4.5,4802.4
+2025-02-23,Sunday,2025-02-23,Peak,TLC Taxi/FHV,99657,1.13,90089.93
+2025-02-24,Monday,2025-02-23,Overnight,Passenger Cars & Vans,36826,2.25,66286.8
+2025-02-24,Monday,2025-02-23,Overnight,Single-Unit Trucks,2545,3.6,7329.6
+2025-02-24,Monday,2025-02-23,Overnight,Multi-Unit Trucks,459,5.4,1982.88
+2025-02-24,Monday,2025-02-23,Overnight,Buses,812,3.69,2397.02
+2025-02-24,Monday,2025-02-23,Overnight,Motorcycles,228,1.05,191.52
+2025-02-24,Monday,2025-02-23,Overnight,TLC Taxi/FHV,34274,1.13,30983.7
+2025-02-24,Monday,2025-02-23,Peak,Passenger Cars & Vans,228019,9.0,1641736.8
+2025-02-24,Monday,2025-02-23,Peak,Single-Unit Trucks,20151,14.4,232139.51
+2025-02-24,Monday,2025-02-23,Peak,Multi-Unit Trucks,1514,21.6,26161.92
+2025-02-24,Monday,2025-02-23,Peak,Buses,10017,14.76,118280.74
+2025-02-24,Monday,2025-02-23,Peak,Motorcycles,1642,4.5,5911.2
+2025-02-24,Monday,2025-02-23,Peak,TLC Taxi/FHV,132012,1.13,119338.85
+2025-02-25,Tuesday,2025-02-23,Overnight,Passenger Cars & Vans,37806,2.25,68050.8
+2025-02-25,Tuesday,2025-02-23,Overnight,Single-Unit Trucks,2846,3.6,8196.48
+2025-02-25,Tuesday,2025-02-23,Overnight,Multi-Unit Trucks,496,5.4,2142.72
+2025-02-25,Tuesday,2025-02-23,Overnight,Buses,828,3.69,2444.26
+2025-02-25,Tuesday,2025-02-23,Overnight,Motorcycles,271,1.05,227.64
+2025-02-25,Tuesday,2025-02-23,Overnight,TLC Taxi/FHV,40463,1.13,36578.55
+2025-02-25,Tuesday,2025-02-23,Peak,Passenger Cars & Vans,235734,9.0,1697284.8
+2025-02-25,Tuesday,2025-02-23,Peak,Single-Unit Trucks,21075,14.4,242783.99
+2025-02-25,Tuesday,2025-02-23,Peak,Multi-Unit Trucks,1311,21.6,22654.08
+2025-02-25,Tuesday,2025-02-23,Peak,Buses,10106,14.76,119331.65
+2025-02-25,Tuesday,2025-02-23,Peak,Motorcycles,1786,4.5,6429.6
+2025-02-25,Tuesday,2025-02-23,Peak,TLC Taxi/FHV,137509,1.13,124308.14
+2025-02-26,Wednesday,2025-02-23,Overnight,Passenger Cars & Vans,39734,2.25,71521.2
+2025-02-26,Wednesday,2025-02-23,Overnight,Single-Unit Trucks,2902,3.6,8357.76
+2025-02-26,Wednesday,2025-02-23,Overnight,Multi-Unit Trucks,413,5.4,1784.16
+2025-02-26,Wednesday,2025-02-23,Overnight,Buses,812,3.69,2397.02
+2025-02-26,Wednesday,2025-02-23,Overnight,Motorcycles,249,1.05,209.16
+2025-02-26,Wednesday,2025-02-23,Overnight,TLC Taxi/FHV,45857,1.13,41454.73
+2025-02-26,Wednesday,2025-02-23,Peak,Passenger Cars & Vans,242601,9.0,1746727.2
+2025-02-26,Wednesday,2025-02-23,Peak,Single-Unit Trucks,21134,14.4,243463.67
+2025-02-26,Wednesday,2025-02-23,Peak,Multi-Unit Trucks,1236,21.6,21358.08
+2025-02-26,Wednesday,2025-02-23,Peak,Buses,10183,14.76,120240.87
+2025-02-26,Wednesday,2025-02-23,Peak,Motorcycles,1772,4.5,6379.2
+2025-02-26,Wednesday,2025-02-23,Peak,TLC Taxi/FHV,143072,1.13,129337.09
+2025-02-27,Thursday,2025-02-23,Overnight,Passenger Cars & Vans,41299,2.25,74338.2
+2025-02-27,Thursday,2025-02-23,Overnight,Single-Unit Trucks,2980,3.6,8582.4
+2025-02-27,Thursday,2025-02-23,Overnight,Multi-Unit Trucks,426,5.4,1840.32
+2025-02-27,Thursday,2025-02-23,Overnight,Buses,818,3.69,2414.74
+2025-02-27,Thursday,2025-02-23,Overnight,Motorcycles,257,1.05,215.88
+2025-02-27,Thursday,2025-02-23,Overnight,TLC Taxi/FHV,49012,1.13,44306.85
+2025-02-27,Thursday,2025-02-23,Peak,Passenger Cars & Vans,246317,9.0,1773482.4
+2025-02-27,Thursday,2025-02-23,Peak,Single-Unit Trucks,21319,14.4,245594.87
+2025-02-27,Thursday,2025-02-23,Peak,Multi-Unit Trucks,1154,21.6,19941.12
+2025-02-27,Thursday,2025-02-23,Peak,Buses,10142,14.76,119756.74
+2025-02-27,Thursday,2025-02-23,Peak,Motorcycles,1511,4.5,5439.6
+2025-02-27,Thursday,2025-02-23,Peak,TLC Taxi/FHV,145876,1.13,131871.9
+2025-02-28,Friday,2025-02-23,Overnight,Passenger Cars & Vans,49861,2.25,89749.8
+2025-02-28,Friday,2025-02-23,Overnight,Single-Unit Trucks,2928,3.6,8432.64
+2025-02-28,Friday,2025-02-23,Overnight,Multi-Unit Trucks,413,5.4,1784.16
+2025-02-28,Friday,2025-02-23,Overnight,Buses,829,3.69,2447.21
+2025-02-28,Friday,2025-02-23,Overnight,Motorcycles,333,1.05,279.72
+2025-02-28,Friday,2025-02-23,Overnight,TLC Taxi/FHV,50389,1.13,45551.66
+2025-02-28,Friday,2025-02-23,Peak,Passenger Cars & Vans,245343,9.0,1766469.6
+2025-02-28,Friday,2025-02-23,Peak,Single-Unit Trucks,21585,14.4,248659.19
+2025-02-28,Friday,2025-02-23,Peak,Multi-Unit Trucks,1235,21.6,21340.8
+2025-02-28,Friday,2025-02-23,Peak,Buses,9836,14.76,116143.49
+2025-02-28,Friday,2025-02-23,Peak,Motorcycles,1760,4.5,6336.0
+2025-02-28,Friday,2025-02-23,Peak,TLC Taxi/FHV,133983,1.13,121120.63
+2025-03-01,Saturday,2025-02-23,Overnight,Passenger Cars & Vans,93284,2.25,167911.2
+2025-03-01,Saturday,2025-02-23,Overnight,Single-Unit Trucks,4787,3.6,13786.56
+2025-03-01,Saturday,2025-02-23,Overnight,Multi-Unit Trucks,525,5.4,2268.0
+2025-03-01,Saturday,2025-02-23,Overnight,Buses,1477,3.69,4360.1
+2025-03-01,Saturday,2025-02-23,Overnight,Motorcycles,472,1.05,396.48
+2025-03-01,Saturday,2025-02-23,Overnight,TLC Taxi/FHV,83512,1.13,75494.85
+2025-03-01,Saturday,2025-02-23,Peak,Passenger Cars & Vans,192721,9.0,1387591.2
+2025-03-01,Saturday,2025-02-23,Peak,Single-Unit Trucks,5068,14.4,58383.36
+2025-03-01,Saturday,2025-02-23,Peak,Multi-Unit Trucks,329,21.6,5685.12
+2025-03-01,Saturday,2025-02-23,Peak,Buses,3169,14.76,37419.55
+2025-03-01,Saturday,2025-02-23,Peak,Motorcycles,1407,4.5,5065.2
+2025-03-01,Saturday,2025-02-23,Peak,TLC Taxi/FHV,105815,1.13,95656.76
+2025-03-02,Sunday,2025-03-02,Overnight,Passenger Cars & Vans,76589,2.25,137860.2
+2025-03-02,Sunday,2025-03-02,Overnight,Single-Unit Trucks,1983,3.6,5711.04
+2025-03-02,Sunday,2025-03-02,Overnight,Multi-Unit Trucks,238,5.4,1028.16
+2025-03-02,Sunday,2025-03-02,Overnight,Buses,1259,3.69,3716.57
+2025-03-02,Sunday,2025-03-02,Overnight,Motorcycles,314,1.05,263.76
+2025-03-02,Sunday,2025-03-02,Overnight,TLC Taxi/FHV,75017,1.13,67815.37
+2025-03-02,Sunday,2025-03-02,Peak,Passenger Cars & Vans,178198,9.0,1283025.6
+2025-03-02,Sunday,2025-03-02,Peak,Single-Unit Trucks,2509,14.4,28903.68
+2025-03-02,Sunday,2025-03-02,Peak,Multi-Unit Trucks,167,21.6,2885.76
+2025-03-02,Sunday,2025-03-02,Peak,Buses,2953,14.76,34869.02
+2025-03-02,Sunday,2025-03-02,Peak,Motorcycles,953,4.5,3430.8
+2025-03-02,Sunday,2025-03-02,Peak,TLC Taxi/FHV,99847,1.13,90261.69
+2025-03-03,Monday,2025-03-02,Overnight,Passenger Cars & Vans,37359,2.25,67246.2
+2025-03-03,Monday,2025-03-02,Overnight,Single-Unit Trucks,2502,3.6,7205.76
+2025-03-03,Monday,2025-03-02,Overnight,Multi-Unit Trucks,345,5.4,1490.4
+2025-03-03,Monday,2025-03-02,Overnight,Buses,792,3.69,2337.98
+2025-03-03,Monday,2025-03-02,Overnight,Motorcycles,166,1.05,139.44
+2025-03-03,Monday,2025-03-02,Overnight,TLC Taxi/FHV,36405,1.13,32910.12
+2025-03-03,Monday,2025-03-02,Peak,Passenger Cars & Vans,230921,9.0,1662631.2
+2025-03-03,Monday,2025-03-02,Peak,Single-Unit Trucks,20082,14.4,231344.63
+2025-03-03,Monday,2025-03-02,Peak,Multi-Unit Trucks,1014,21.6,17521.92
+2025-03-03,Monday,2025-03-02,Peak,Buses,10278,14.76,121362.63
+2025-03-03,Monday,2025-03-02,Peak,Motorcycles,1197,4.5,4309.2
+2025-03-03,Monday,2025-03-02,Peak,TLC Taxi/FHV,132185,1.13,119495.24
+2025-03-04,Tuesday,2025-03-02,Overnight,Passenger Cars & Vans,37945,2.25,68301.0
+2025-03-04,Tuesday,2025-03-02,Overnight,Single-Unit Trucks,2893,3.6,8331.84
+2025-03-04,Tuesday,2025-03-02,Overnight,Multi-Unit Trucks,439,5.4,1896.48
+2025-03-04,Tuesday,2025-03-02,Overnight,Buses,769,3.69,2270.09
+2025-03-04,Tuesday,2025-03-02,Overnight,Motorcycles,210,1.05,176.4
+2025-03-04,Tuesday,2025-03-02,Overnight,TLC Taxi/FHV,41574,1.13,37582.9
+2025-03-04,Tuesday,2025-03-02,Peak,Passenger Cars & Vans,240845,9.0,1734084.0
+2025-03-04,Tuesday,2025-03-02,Peak,Single-Unit Trucks,20946,14.4,241297.91
+2025-03-04,Tuesday,2025-03-02,Peak,Multi-Unit Trucks,1150,21.6,19872.0
+2025-03-04,Tuesday,2025-03-02,Peak,Buses,10166,14.76,120040.13
+2025-03-04,Tuesday,2025-03-02,Peak,Motorcycles,1680,4.5,6048.0
+2025-03-04,Tuesday,2025-03-02,Peak,TLC Taxi/FHV,137548,1.13,124343.39
+2025-03-05,Wednesday,2025-03-02,Overnight,Passenger Cars & Vans,38218,2.25,68792.4
+2025-03-05,Wednesday,2025-03-02,Overnight,Single-Unit Trucks,2751,3.6,7922.88
+2025-03-05,Wednesday,2025-03-02,Overnight,Multi-Unit Trucks,474,5.4,2047.68
+2025-03-05,Wednesday,2025-03-02,Overnight,Buses,837,3.69,2470.82
+2025-03-05,Wednesday,2025-03-02,Overnight,Motorcycles,178,1.05,149.52
+2025-03-05,Wednesday,2025-03-02,Overnight,TLC Taxi/FHV,46010,1.13,41593.04
+2025-03-05,Wednesday,2025-03-02,Peak,Passenger Cars & Vans,236753,9.0,1704621.6
+2025-03-05,Wednesday,2025-03-02,Peak,Single-Unit Trucks,20208,14.4,232796.15
+2025-03-05,Wednesday,2025-03-02,Peak,Multi-Unit Trucks,1139,21.6,19681.92
+2025-03-05,Wednesday,2025-03-02,Peak,Buses,9959,14.76,117595.87
+2025-03-05,Wednesday,2025-03-02,Peak,Motorcycles,1264,4.5,4550.4
+2025-03-05,Wednesday,2025-03-02,Peak,TLC Taxi/FHV,142058,1.13,128420.43
+2025-03-06,Thursday,2025-03-02,Overnight,Passenger Cars & Vans,41758,2.25,75164.4
+2025-03-06,Thursday,2025-03-02,Overnight,Single-Unit Trucks,2895,3.6,8337.6
+2025-03-06,Thursday,2025-03-02,Overnight,Multi-Unit Trucks,477,5.4,2060.64
+2025-03-06,Thursday,2025-03-02,Overnight,Buses,828,3.69,2444.26
+2025-03-06,Thursday,2025-03-02,Overnight,Motorcycles,264,1.05,221.76
+2025-03-06,Thursday,2025-03-02,Overnight,TLC Taxi/FHV,50040,1.13,45236.16
+2025-03-06,Thursday,2025-03-02,Peak,Passenger Cars & Vans,245382,9.0,1766750.4
+2025-03-06,Thursday,2025-03-02,Peak,Single-Unit Trucks,21134,14.4,243463.67
+2025-03-06,Thursday,2025-03-02,Peak,Multi-Unit Trucks,1132,21.6,19560.96
+2025-03-06,Thursday,2025-03-02,Peak,Buses,9650,14.76,113947.2
+2025-03-06,Thursday,2025-03-02,Peak,Motorcycles,1635,4.5,5886.0
+2025-03-06,Thursday,2025-03-02,Peak,TLC Taxi/FHV,146092,1.13,132067.17
+2025-03-07,Friday,2025-03-02,Overnight,Passenger Cars & Vans,49108,2.25,88394.4
+2025-03-07,Friday,2025-03-02,Overnight,Single-Unit Trucks,2728,3.6,7856.64
+2025-03-07,Friday,2025-03-02,Overnight,Multi-Unit Trucks,460,5.4,1987.2
+2025-03-07,Friday,2025-03-02,Overnight,Buses,819,3.69,2417.69
+2025-03-07,Friday,2025-03-02,Overnight,Motorcycles,320,1.05,268.8
+2025-03-07,Friday,2025-03-02,Overnight,TLC Taxi/FHV,50866,1.13,45982.86
+2025-03-07,Friday,2025-03-02,Peak,Passenger Cars & Vans,249027,9.0,1792994.4
+2025-03-07,Friday,2025-03-02,Peak,Single-Unit Trucks,20747,14.4,239005.43
+2025-03-07,Friday,2025-03-02,Peak,Multi-Unit Trucks,1310,21.6,22636.8
+2025-03-07,Friday,2025-03-02,Peak,Buses,9562,14.76,112908.1
+2025-03-07,Friday,2025-03-02,Peak,Motorcycles,1619,4.5,5828.4
+2025-03-07,Friday,2025-03-02,Peak,TLC Taxi/FHV,137235,1.13,124060.44
+2025-03-08,Saturday,2025-03-02,Overnight,Passenger Cars & Vans,94166,2.25,169498.8
+2025-03-08,Saturday,2025-03-02,Overnight,Single-Unit Trucks,4555,3.6,13118.4
+2025-03-08,Saturday,2025-03-02,Overnight,Multi-Unit Trucks,493,5.4,2129.76
+2025-03-08,Saturday,2025-03-02,Overnight,Buses,1475,3.69,4354.2
+2025-03-08,Saturday,2025-03-02,Overnight,Motorcycles,461,1.05,387.24
+2025-03-08,Saturday,2025-03-02,Overnight,TLC Taxi/FHV,83310,1.13,75312.24
+2025-03-08,Saturday,2025-03-02,Peak,Passenger Cars & Vans,192207,9.0,1383890.4
+2025-03-08,Saturday,2025-03-02,Peak,Single-Unit Trucks,4639,14.4,53441.28
+2025-03-08,Saturday,2025-03-02,Peak,Multi-Unit Trucks,279,21.6,4821.12
+2025-03-08,Saturday,2025-03-02,Peak,Buses,3119,14.76,36829.15
+2025-03-08,Saturday,2025-03-02,Peak,Motorcycles,1181,4.5,4251.6
+2025-03-08,Saturday,2025-03-02,Peak,TLC Taxi/FHV,107067,1.13,96788.57
+2025-03-09,Sunday,2025-03-09,Overnight,Passenger Cars & Vans,76475,2.25,137655.0
+2025-03-09,Sunday,2025-03-09,Overnight,Single-Unit Trucks,1955,3.6,5630.4
+2025-03-09,Sunday,2025-03-09,Overnight,Multi-Unit Trucks,272,5.4,1175.04
+2025-03-09,Sunday,2025-03-09,Overnight,Buses,1187,3.69,3504.02
+2025-03-09,Sunday,2025-03-09,Overnight,Motorcycles,396,1.05,332.64
+2025-03-09,Sunday,2025-03-09,Overnight,TLC Taxi/FHV,73867,1.13,66775.77
+2025-03-09,Sunday,2025-03-09,Peak,Passenger Cars & Vans,183225,9.0,1319220.0
+2025-03-09,Sunday,2025-03-09,Peak,Single-Unit Trucks,2563,14.4,29525.76
+2025-03-09,Sunday,2025-03-09,Peak,Multi-Unit Trucks,193,21.6,3335.04
+2025-03-09,Sunday,2025-03-09,Peak,Buses,2764,14.76,32637.31
+2025-03-09,Sunday,2025-03-09,Peak,Motorcycles,1248,4.5,4492.8
+2025-03-09,Sunday,2025-03-09,Peak,TLC Taxi/FHV,97725,1.13,88343.4
+2025-03-10,Monday,2025-03-09,Overnight,Passenger Cars & Vans,41291,2.25,74323.8
+2025-03-10,Monday,2025-03-09,Overnight,Single-Unit Trucks,2653,3.6,7640.64
+2025-03-10,Monday,2025-03-09,Overnight,Multi-Unit Trucks,403,5.4,1740.96
+2025-03-10,Monday,2025-03-09,Overnight,Buses,768,3.69,2267.14
+2025-03-10,Monday,2025-03-09,Overnight,Motorcycles,307,1.05,257.88
+2025-03-10,Monday,2025-03-09,Overnight,TLC Taxi/FHV,37492,1.13,33892.77
+2025-03-10,Monday,2025-03-09,Peak,Passenger Cars & Vans,236522,9.0,1702958.4
+2025-03-10,Monday,2025-03-09,Peak,Single-Unit Trucks,19913,14.4,229397.75
+2025-03-10,Monday,2025-03-09,Peak,Multi-Unit Trucks,1044,21.6,18040.32
+2025-03-10,Monday,2025-03-09,Peak,Buses,9988,14.76,117938.31
+2025-03-10,Monday,2025-03-09,Peak,Motorcycles,1806,4.5,6501.6
+2025-03-10,Monday,2025-03-09,Peak,TLC Taxi/FHV,128437,1.13,116107.05
+2025-03-11,Tuesday,2025-03-09,Overnight,Passenger Cars & Vans,40716,2.25,73288.8
+2025-03-11,Tuesday,2025-03-09,Overnight,Single-Unit Trucks,3000,3.6,8640.0
+2025-03-11,Tuesday,2025-03-09,Overnight,Multi-Unit Trucks,422,5.4,1823.04
+2025-03-11,Tuesday,2025-03-09,Overnight,Buses,825,3.69,2435.4
+2025-03-11,Tuesday,2025-03-09,Overnight,Motorcycles,311,1.05,261.24
+2025-03-11,Tuesday,2025-03-09,Overnight,TLC Taxi/FHV,43857,1.13,39646.73
+2025-03-11,Tuesday,2025-03-09,Peak,Passenger Cars & Vans,246889,9.0,1777600.8
+2025-03-11,Tuesday,2025-03-09,Peak,Single-Unit Trucks,20604,14.4,237358.07
+2025-03-11,Tuesday,2025-03-09,Peak,Multi-Unit Trucks,977,21.6,16882.56
+2025-03-11,Tuesday,2025-03-09,Peak,Buses,9980,14.76,117843.84
+2025-03-11,Tuesday,2025-03-09,Peak,Motorcycles,1943,4.5,6994.8
+2025-03-11,Tuesday,2025-03-09,Peak,TLC Taxi/FHV,134472,1.13,121562.69
+2025-03-12,Wednesday,2025-03-09,Overnight,Passenger Cars & Vans,41468,2.25,74642.4
+2025-03-12,Wednesday,2025-03-09,Overnight,Single-Unit Trucks,2851,3.6,8210.88
+2025-03-12,Wednesday,2025-03-09,Overnight,Multi-Unit Trucks,385,5.4,1663.2
+2025-03-12,Wednesday,2025-03-09,Overnight,Buses,785,3.69,2317.32
+2025-03-12,Wednesday,2025-03-09,Overnight,Motorcycles,329,1.05,276.36
+2025-03-12,Wednesday,2025-03-09,Overnight,TLC Taxi/FHV,48081,1.13,43465.22
+2025-03-12,Wednesday,2025-03-09,Peak,Passenger Cars & Vans,247168,9.0,1779609.6
+2025-03-12,Wednesday,2025-03-09,Peak,Single-Unit Trucks,20132,14.4,231920.63
+2025-03-12,Wednesday,2025-03-09,Peak,Multi-Unit Trucks,1119,21.6,19336.32
+2025-03-12,Wednesday,2025-03-09,Peak,Buses,10178,14.76,120181.83
+2025-03-12,Wednesday,2025-03-09,Peak,Motorcycles,2012,4.5,7243.2
+2025-03-12,Wednesday,2025-03-09,Peak,TLC Taxi/FHV,141413,1.13,127837.35
+2025-03-13,Thursday,2025-03-09,Overnight,Passenger Cars & Vans,43070,2.25,77526.0
+2025-03-13,Thursday,2025-03-09,Overnight,Single-Unit Trucks,2954,3.6,8507.52
+2025-03-13,Thursday,2025-03-09,Overnight,Multi-Unit Trucks,418,5.4,1805.76
+2025-03-13,Thursday,2025-03-09,Overnight,Buses,842,3.69,2485.58
+2025-03-13,Thursday,2025-03-09,Overnight,Motorcycles,290,1.05,243.6
+2025-03-13,Thursday,2025-03-09,Overnight,TLC Taxi/FHV,52210,1.13,47197.84
+2025-03-13,Thursday,2025-03-09,Peak,Passenger Cars & Vans,248533,9.0,1789437.6
+2025-03-13,Thursday,2025-03-09,Peak,Single-Unit Trucks,20490,14.4,236044.79
+2025-03-13,Thursday,2025-03-09,Peak,Multi-Unit Trucks,1089,21.6,18817.92
+2025-03-13,Thursday,2025-03-09,Peak,Buses,9839,14.76,116178.91
+2025-03-13,Thursday,2025-03-09,Peak,Motorcycles,1907,4.5,6865.2
+2025-03-13,Thursday,2025-03-09,Peak,TLC Taxi/FHV,146169,1.13,132136.78
+2025-03-14,Friday,2025-03-09,Overnight,Passenger Cars & Vans,52187,2.25,93936.6
+2025-03-14,Friday,2025-03-09,Overnight,Single-Unit Trucks,2789,3.6,8032.32
+2025-03-14,Friday,2025-03-09,Overnight,Multi-Unit Trucks,412,5.4,1779.84
+2025-03-14,Friday,2025-03-09,Overnight,Buses,829,3.69,2447.21
+2025-03-14,Friday,2025-03-09,Overnight,Motorcycles,322,1.05,270.48
+2025-03-14,Friday,2025-03-09,Overnight,TLC Taxi/FHV,55303,1.13,49993.91
+2025-03-14,Friday,2025-03-09,Peak,Passenger Cars & Vans,243986,9.0,1756699.2
+2025-03-14,Friday,2025-03-09,Peak,Single-Unit Trucks,20249,14.4,233268.47
+2025-03-14,Friday,2025-03-09,Peak,Multi-Unit Trucks,1043,21.6,18023.04
+2025-03-14,Friday,2025-03-09,Peak,Buses,9781,14.76,115494.05
+2025-03-14,Friday,2025-03-09,Peak,Motorcycles,1900,4.5,6840.0
+2025-03-14,Friday,2025-03-09,Peak,TLC Taxi/FHV,138728,1.13,125410.11
+2025-03-15,Saturday,2025-03-09,Overnight,Passenger Cars & Vans,96701,2.25,174061.8
+2025-03-15,Saturday,2025-03-09,Overnight,Single-Unit Trucks,4440,3.6,12787.2
+2025-03-15,Saturday,2025-03-09,Overnight,Multi-Unit Trucks,520,5.4,2246.4
+2025-03-15,Saturday,2025-03-09,Overnight,Buses,1521,3.69,4489.99
+2025-03-15,Saturday,2025-03-09,Overnight,Motorcycles,510,1.05,428.4
+2025-03-15,Saturday,2025-03-09,Overnight,TLC Taxi/FHV,86327,1.13,78039.61
+2025-03-15,Saturday,2025-03-09,Peak,Passenger Cars & Vans,193598,9.0,1393905.6
+2025-03-15,Saturday,2025-03-09,Peak,Single-Unit Trucks,4597,14.4,52957.44
+2025-03-15,Saturday,2025-03-09,Peak,Multi-Unit Trucks,290,21.6,5011.2
+2025-03-15,Saturday,2025-03-09,Peak,Buses,3433,14.76,40536.86
+2025-03-15,Saturday,2025-03-09,Peak,Motorcycles,1363,4.5,4906.8
+2025-03-15,Saturday,2025-03-09,Peak,TLC Taxi/FHV,112751,1.13,101926.9
+2025-03-16,Sunday,2025-03-16,Overnight,Passenger Cars & Vans,80348,2.25,144626.4
+2025-03-16,Sunday,2025-03-16,Overnight,Single-Unit Trucks,2146,3.6,6180.48
+2025-03-16,Sunday,2025-03-16,Overnight,Multi-Unit Trucks,286,5.4,1235.52
+2025-03-16,Sunday,2025-03-16,Overnight,Buses,1450,3.69,4280.4
+2025-03-16,Sunday,2025-03-16,Overnight,Motorcycles,379,1.05,318.36
+2025-03-16,Sunday,2025-03-16,Overnight,TLC Taxi/FHV,77264,1.13,69846.66
+2025-03-16,Sunday,2025-03-16,Peak,Passenger Cars & Vans,177185,9.0,1275732.0
+2025-03-16,Sunday,2025-03-16,Peak,Single-Unit Trucks,2833,14.4,32636.16
+2025-03-16,Sunday,2025-03-16,Peak,Multi-Unit Trucks,203,21.6,3507.84
+2025-03-16,Sunday,2025-03-16,Peak,Buses,2970,14.76,35069.76
+2025-03-16,Sunday,2025-03-16,Peak,Motorcycles,1208,4.5,4348.8
+2025-03-16,Sunday,2025-03-16,Peak,TLC Taxi/FHV,97398,1.13,88047.79
+2025-03-17,Monday,2025-03-16,Overnight,Passenger Cars & Vans,39826,2.25,71686.8
+2025-03-17,Monday,2025-03-16,Overnight,Single-Unit Trucks,2580,3.6,7430.4
+2025-03-17,Monday,2025-03-16,Overnight,Multi-Unit Trucks,431,5.4,1861.92
+2025-03-17,Monday,2025-03-16,Overnight,Buses,799,3.69,2358.65
+2025-03-17,Monday,2025-03-16,Overnight,Motorcycles,214,1.05,179.76
+2025-03-17,Monday,2025-03-16,Overnight,TLC Taxi/FHV,40048,1.13,36203.39
+2025-03-17,Monday,2025-03-16,Peak,Passenger Cars & Vans,225225,9.0,1621620.0
+2025-03-17,Monday,2025-03-16,Peak,Single-Unit Trucks,18516,14.4,213304.31
+2025-03-17,Monday,2025-03-16,Peak,Multi-Unit Trucks,1013,21.6,17504.64
+2025-03-17,Monday,2025-03-16,Peak,Buses,9622,14.76,113616.58
+2025-03-17,Monday,2025-03-16,Peak,Motorcycles,1155,4.5,4158.0
+2025-03-17,Monday,2025-03-16,Peak,TLC Taxi/FHV,127146,1.13,114939.98
+2025-03-18,Tuesday,2025-03-16,Overnight,Passenger Cars & Vans,40725,2.25,73305.0
+2025-03-18,Tuesday,2025-03-16,Overnight,Single-Unit Trucks,2940,3.6,8467.2
+2025-03-18,Tuesday,2025-03-16,Overnight,Multi-Unit Trucks,450,5.4,1944.0
+2025-03-18,Tuesday,2025-03-16,Overnight,Buses,842,3.69,2485.58
+2025-03-18,Tuesday,2025-03-16,Overnight,Motorcycles,271,1.05,227.64
+2025-03-18,Tuesday,2025-03-16,Overnight,TLC Taxi/FHV,44136,1.13,39898.94
+2025-03-18,Tuesday,2025-03-16,Peak,Passenger Cars & Vans,243807,9.0,1755410.4
+2025-03-18,Tuesday,2025-03-16,Peak,Single-Unit Trucks,20620,14.4,237542.39
+2025-03-18,Tuesday,2025-03-16,Peak,Multi-Unit Trucks,1102,21.6,19042.56
+2025-03-18,Tuesday,2025-03-16,Peak,Buses,9540,14.76,112648.32
+2025-03-18,Tuesday,2025-03-16,Peak,Motorcycles,1861,4.5,6699.6
+2025-03-18,Tuesday,2025-03-16,Peak,TLC Taxi/FHV,134932,1.13,121978.53
+2025-03-19,Wednesday,2025-03-16,Overnight,Passenger Cars & Vans,40828,2.25,73490.4
+2025-03-19,Wednesday,2025-03-16,Overnight,Single-Unit Trucks,2930,3.6,8438.4
+2025-03-19,Wednesday,2025-03-16,Overnight,Multi-Unit Trucks,427,5.4,1844.64
+2025-03-19,Wednesday,2025-03-16,Overnight,Buses,859,3.69,2535.77
+2025-03-19,Wednesday,2025-03-16,Overnight,Motorcycles,283,1.05,237.72
+2025-03-19,Wednesday,2025-03-16,Overnight,TLC Taxi/FHV,46537,1.13,42069.45
+2025-03-19,Wednesday,2025-03-16,Peak,Passenger Cars & Vans,243678,9.0,1754481.6
+2025-03-19,Wednesday,2025-03-16,Peak,Single-Unit Trucks,19790,14.4,227980.79
+2025-03-19,Wednesday,2025-03-16,Peak,Multi-Unit Trucks,1068,21.6,18455.04
+2025-03-19,Wednesday,2025-03-16,Peak,Buses,9699,14.76,114525.79
+2025-03-19,Wednesday,2025-03-16,Peak,Motorcycles,1896,4.5,6825.6
+2025-03-19,Wednesday,2025-03-16,Peak,TLC Taxi/FHV,140387,1.13,126909.85
+2025-03-20,Thursday,2025-03-16,Overnight,Passenger Cars & Vans,42293,2.25,76127.4
+2025-03-20,Thursday,2025-03-16,Overnight,Single-Unit Trucks,2883,3.6,8303.04
+2025-03-20,Thursday,2025-03-16,Overnight,Multi-Unit Trucks,415,5.4,1792.8
+2025-03-20,Thursday,2025-03-16,Overnight,Buses,833,3.69,2459.02
+2025-03-20,Thursday,2025-03-16,Overnight,Motorcycles,208,1.05,174.72
+2025-03-20,Thursday,2025-03-16,Overnight,TLC Taxi/FHV,52144,1.13,47138.18
+2025-03-20,Thursday,2025-03-16,Peak,Passenger Cars & Vans,245109,9.0,1764784.8
+2025-03-20,Thursday,2025-03-16,Peak,Single-Unit Trucks,19845,14.4,228614.39
+2025-03-20,Thursday,2025-03-16,Peak,Multi-Unit Trucks,1007,21.6,17400.96
+2025-03-20,Thursday,2025-03-16,Peak,Buses,9579,14.76,113108.83
+2025-03-20,Thursday,2025-03-16,Peak,Motorcycles,1595,4.5,5742.0
+2025-03-20,Thursday,2025-03-16,Peak,TLC Taxi/FHV,146058,1.13,132036.43
+2025-03-21,Friday,2025-03-16,Overnight,Passenger Cars & Vans,49080,2.25,88344.0
+2025-03-21,Friday,2025-03-16,Overnight,Single-Unit Trucks,2905,3.6,8366.4
+2025-03-21,Friday,2025-03-16,Overnight,Multi-Unit Trucks,399,5.4,1723.68
+2025-03-21,Friday,2025-03-16,Overnight,Buses,838,3.69,2473.78
+2025-03-21,Friday,2025-03-16,Overnight,Motorcycles,277,1.05,232.68
+2025-03-21,Friday,2025-03-16,Overnight,TLC Taxi/FHV,53185,1.13,48079.24
+2025-03-21,Friday,2025-03-16,Peak,Passenger Cars & Vans,244176,9.0,1758067.2
+2025-03-21,Friday,2025-03-16,Peak,Single-Unit Trucks,20206,14.4,232773.11
+2025-03-21,Friday,2025-03-16,Peak,Multi-Unit Trucks,1051,21.6,18161.28
+2025-03-21,Friday,2025-03-16,Peak,Buses,9073,14.76,107133.99
+2025-03-21,Friday,2025-03-16,Peak,Motorcycles,1651,4.5,5943.6
+2025-03-21,Friday,2025-03-16,Peak,TLC Taxi/FHV,136095,1.13,123029.88
+2025-03-22,Saturday,2025-03-16,Overnight,Passenger Cars & Vans,95603,2.25,172085.4
+2025-03-22,Saturday,2025-03-16,Overnight,Single-Unit Trucks,4547,3.6,13095.36
+2025-03-22,Saturday,2025-03-16,Overnight,Multi-Unit Trucks,470,5.4,2030.4
+2025-03-22,Saturday,2025-03-16,Overnight,Buses,1568,3.69,4628.74
+2025-03-22,Saturday,2025-03-16,Overnight,Motorcycles,503,1.05,422.52
+2025-03-22,Saturday,2025-03-16,Overnight,TLC Taxi/FHV,85079,1.13,76911.42
+2025-03-22,Saturday,2025-03-16,Peak,Passenger Cars & Vans,190635,9.0,1372572.0
+2025-03-22,Saturday,2025-03-16,Peak,Single-Unit Trucks,4484,14.4,51655.68
+2025-03-22,Saturday,2025-03-16,Peak,Multi-Unit Trucks,270,21.6,4665.6
+2025-03-22,Saturday,2025-03-16,Peak,Buses,3322,14.76,39226.18
+2025-03-22,Saturday,2025-03-16,Peak,Motorcycles,1386,4.5,4989.6
+2025-03-22,Saturday,2025-03-16,Peak,TLC Taxi/FHV,108269,1.13,97875.18
+2025-03-23,Sunday,2025-03-23,Overnight,Passenger Cars & Vans,79097,2.25,142374.6
+2025-03-23,Sunday,2025-03-23,Overnight,Single-Unit Trucks,1992,3.6,5736.96
+2025-03-23,Sunday,2025-03-23,Overnight,Multi-Unit Trucks,223,5.4,963.36
+2025-03-23,Sunday,2025-03-23,Overnight,Buses,1282,3.69,3784.46
+2025-03-23,Sunday,2025-03-23,Overnight,Motorcycles,476,1.05,399.84
+2025-03-23,Sunday,2025-03-23,Overnight,TLC Taxi/FHV,76735,1.13,69368.44
+2025-03-23,Sunday,2025-03-23,Peak,Passenger Cars & Vans,186783,9.0,1344837.6
+2025-03-23,Sunday,2025-03-23,Peak,Single-Unit Trucks,2428,14.4,27970.56
+2025-03-23,Sunday,2025-03-23,Peak,Multi-Unit Trucks,153,21.6,2643.84
+2025-03-23,Sunday,2025-03-23,Peak,Buses,2939,14.76,34703.71
+2025-03-23,Sunday,2025-03-23,Peak,Motorcycles,1208,4.5,4348.8
+2025-03-23,Sunday,2025-03-23,Peak,TLC Taxi/FHV,99986,1.13,90387.34
+2025-03-24,Monday,2025-03-23,Overnight,Passenger Cars & Vans,38329,2.25,68992.2
+2025-03-24,Monday,2025-03-23,Overnight,Single-Unit Trucks,2604,3.6,7499.52
+2025-03-24,Monday,2025-03-23,Overnight,Multi-Unit Trucks,393,5.4,1697.76
+2025-03-24,Monday,2025-03-23,Overnight,Buses,799,3.69,2358.65
+2025-03-24,Monday,2025-03-23,Overnight,Motorcycles,242,1.05,203.28
+2025-03-24,Monday,2025-03-23,Overnight,TLC Taxi/FHV,35983,1.13,32528.63
+2025-03-24,Monday,2025-03-23,Peak,Passenger Cars & Vans,230296,9.0,1658131.2
+2025-03-24,Monday,2025-03-23,Peak,Single-Unit Trucks,18421,14.4,212209.91
+2025-03-24,Monday,2025-03-23,Peak,Multi-Unit Trucks,991,21.6,17124.48
+2025-03-24,Monday,2025-03-23,Peak,Buses,9293,14.76,109731.75
+2025-03-24,Monday,2025-03-23,Peak,Motorcycles,1051,4.5,3783.6
+2025-03-24,Monday,2025-03-23,Peak,TLC Taxi/FHV,131400,1.13,118785.6
+2025-03-25,Tuesday,2025-03-23,Overnight,Passenger Cars & Vans,39003,2.25,70205.4
+2025-03-25,Tuesday,2025-03-23,Overnight,Single-Unit Trucks,2918,3.6,8403.84
+2025-03-25,Tuesday,2025-03-23,Overnight,Multi-Unit Trucks,396,5.4,1710.72
+2025-03-25,Tuesday,2025-03-23,Overnight,Buses,805,3.69,2376.36
+2025-03-25,Tuesday,2025-03-23,Overnight,Motorcycles,251,1.05,210.84
+2025-03-25,Tuesday,2025-03-23,Overnight,TLC Taxi/FHV,41381,1.13,37408.42
+2025-03-25,Tuesday,2025-03-23,Peak,Passenger Cars & Vans,243576,9.0,1753747.2
+2025-03-25,Tuesday,2025-03-23,Peak,Single-Unit Trucks,19949,14.4,229812.47
+2025-03-25,Tuesday,2025-03-23,Peak,Multi-Unit Trucks,1019,21.6,17608.32
+2025-03-25,Tuesday,2025-03-23,Peak,Buses,9704,14.76,114584.83
+2025-03-25,Tuesday,2025-03-23,Peak,Motorcycles,1916,4.5,6897.6
+2025-03-25,Tuesday,2025-03-23,Peak,TLC Taxi/FHV,133742,1.13,120902.77
+2025-03-26,Wednesday,2025-03-23,Overnight,Passenger Cars & Vans,40338,2.25,72608.4
+2025-03-26,Wednesday,2025-03-23,Overnight,Single-Unit Trucks,2869,3.6,8262.72
+2025-03-26,Wednesday,2025-03-23,Overnight,Multi-Unit Trucks,470,5.4,2030.4
+2025-03-26,Wednesday,2025-03-23,Overnight,Buses,810,3.69,2391.12
+2025-03-26,Wednesday,2025-03-23,Overnight,Motorcycles,259,1.05,217.56
+2025-03-26,Wednesday,2025-03-23,Overnight,TLC Taxi/FHV,43902,1.13,39687.41
+2025-03-26,Wednesday,2025-03-23,Peak,Passenger Cars & Vans,244486,9.0,1760299.2
+2025-03-26,Wednesday,2025-03-23,Peak,Single-Unit Trucks,19876,14.4,228971.51
+2025-03-26,Wednesday,2025-03-23,Peak,Multi-Unit Trucks,1215,21.6,20995.2
+2025-03-26,Wednesday,2025-03-23,Peak,Buses,9581,14.76,113132.45
+2025-03-26,Wednesday,2025-03-23,Peak,Motorcycles,1835,4.5,6606.0
+2025-03-26,Wednesday,2025-03-23,Peak,TLC Taxi/FHV,139424,1.13,126039.3
+2025-03-27,Thursday,2025-03-23,Overnight,Passenger Cars & Vans,43388,2.25,78098.4
+2025-03-27,Thursday,2025-03-23,Overnight,Single-Unit Trucks,2964,3.6,8536.32
+2025-03-27,Thursday,2025-03-23,Overnight,Multi-Unit Trucks,457,5.4,1974.24
+2025-03-27,Thursday,2025-03-23,Overnight,Buses,826,3.69,2438.35
+2025-03-27,Thursday,2025-03-23,Overnight,Motorcycles,323,1.05,271.32
+2025-03-27,Thursday,2025-03-23,Overnight,TLC Taxi/FHV,49804,1.13,45022.82
+2025-03-27,Thursday,2025-03-23,Peak,Passenger Cars & Vans,250542,9.0,1803902.4
+2025-03-27,Thursday,2025-03-23,Peak,Single-Unit Trucks,20186,14.4,232542.71
+2025-03-27,Thursday,2025-03-23,Peak,Multi-Unit Trucks,1112,21.6,19215.36
+2025-03-27,Thursday,2025-03-23,Peak,Buses,9609,14.76,113463.07
+2025-03-27,Thursday,2025-03-23,Peak,Motorcycles,1745,4.5,6282.0
+2025-03-27,Thursday,2025-03-23,Peak,TLC Taxi/FHV,141398,1.13,127823.79
+2025-03-28,Friday,2025-03-23,Overnight,Passenger Cars & Vans,50126,2.25,90226.8
+2025-03-28,Friday,2025-03-23,Overnight,Single-Unit Trucks,2775,3.6,7992.0
+2025-03-28,Friday,2025-03-23,Overnight,Multi-Unit Trucks,415,5.4,1792.8
+2025-03-28,Friday,2025-03-23,Overnight,Buses,855,3.69,2523.96
+2025-03-28,Friday,2025-03-23,Overnight,Motorcycles,331,1.05,278.04
+2025-03-28,Friday,2025-03-23,Overnight,TLC Taxi/FHV,52987,1.13,47900.25
+2025-03-28,Friday,2025-03-23,Peak,Passenger Cars & Vans,247187,9.0,1779746.4
+2025-03-28,Friday,2025-03-23,Peak,Single-Unit Trucks,20141,14.4,232024.31
+2025-03-28,Friday,2025-03-23,Peak,Multi-Unit Trucks,1193,21.6,20615.04
+2025-03-28,Friday,2025-03-23,Peak,Buses,9436,14.76,111420.29
+2025-03-28,Friday,2025-03-23,Peak,Motorcycles,1950,4.5,7020.0
+2025-03-28,Friday,2025-03-23,Peak,TLC Taxi/FHV,134211,1.13,121326.74
+2025-03-29,Saturday,2025-03-23,Overnight,Passenger Cars & Vans,95605,2.25,172089.0
+2025-03-29,Saturday,2025-03-23,Overnight,Single-Unit Trucks,4713,3.6,13573.44
+2025-03-29,Saturday,2025-03-23,Overnight,Multi-Unit Trucks,445,5.4,1922.4
+2025-03-29,Saturday,2025-03-23,Overnight,Buses,1522,3.69,4492.94
+2025-03-29,Saturday,2025-03-23,Overnight,Motorcycles,571,1.05,479.64
+2025-03-29,Saturday,2025-03-23,Overnight,TLC Taxi/FHV,80940,1.13,73169.76
+2025-03-29,Saturday,2025-03-23,Peak,Passenger Cars & Vans,205619,9.0,1480456.8
+2025-03-29,Saturday,2025-03-23,Peak,Single-Unit Trucks,4825,14.4,55584.0
+2025-03-29,Saturday,2025-03-23,Peak,Multi-Unit Trucks,253,21.6,4371.84
+2025-03-29,Saturday,2025-03-23,Peak,Buses,3288,14.76,38824.7
+2025-03-29,Saturday,2025-03-23,Peak,Motorcycles,1666,4.5,5997.6
+2025-03-29,Saturday,2025-03-23,Peak,TLC Taxi/FHV,105151,1.13,95056.5
+2025-03-30,Sunday,2025-03-30,Overnight,Passenger Cars & Vans,82624,2.25,148723.2
+2025-03-30,Sunday,2025-03-30,Overnight,Single-Unit Trucks,2177,3.6,6269.76
+2025-03-30,Sunday,2025-03-30,Overnight,Multi-Unit Trucks,236,5.4,1019.52
+2025-03-30,Sunday,2025-03-30,Overnight,Buses,1249,3.69,3687.05
+2025-03-30,Sunday,2025-03-30,Overnight,Motorcycles,471,1.05,395.64
+2025-03-30,Sunday,2025-03-30,Overnight,TLC Taxi/FHV,67585,1.13,61096.84
+2025-03-30,Sunday,2025-03-30,Peak,Passenger Cars & Vans,195305,9.0,1406196.0
+2025-03-30,Sunday,2025-03-30,Peak,Single-Unit Trucks,2983,14.4,34364.16
+2025-03-30,Sunday,2025-03-30,Peak,Multi-Unit Trucks,187,21.6,3231.36
+2025-03-30,Sunday,2025-03-30,Peak,Buses,3038,14.76,35872.7
+2025-03-30,Sunday,2025-03-30,Peak,Motorcycles,1204,4.5,4334.4
+2025-03-30,Sunday,2025-03-30,Peak,TLC Taxi/FHV,85702,1.13,77474.61
+2025-03-31,Monday,2025-03-30,Overnight,Passenger Cars & Vans,40546,2.25,72982.8
+2025-03-31,Monday,2025-03-30,Overnight,Single-Unit Trucks,2551,3.6,7346.88
+2025-03-31,Monday,2025-03-30,Overnight,Multi-Unit Trucks,354,5.4,1529.28
+2025-03-31,Monday,2025-03-30,Overnight,Buses,792,3.69,2337.98
+2025-03-31,Monday,2025-03-30,Overnight,Motorcycles,221,1.05,185.64
+2025-03-31,Monday,2025-03-30,Overnight,TLC Taxi/FHV,33016,1.13,29846.46
+2025-03-31,Monday,2025-03-30,Peak,Passenger Cars & Vans,237039,9.0,1706680.8
+2025-03-31,Monday,2025-03-30,Peak,Single-Unit Trucks,19494,14.4,224570.87
+2025-03-31,Monday,2025-03-30,Peak,Multi-Unit Trucks,1115,21.6,19267.2
+2025-03-31,Monday,2025-03-30,Peak,Buses,7861,14.76,92822.69
+2025-03-31,Monday,2025-03-30,Peak,Motorcycles,1499,4.5,5396.4
+2025-03-31,Monday,2025-03-30,Peak,TLC Taxi/FHV,127838,1.13,115565.55
+2025-04-01,Tuesday,2025-03-30,Overnight,Passenger Cars & Vans,40898,2.25,73616.4
+2025-04-01,Tuesday,2025-03-30,Overnight,Single-Unit Trucks,2891,3.6,8326.08
+2025-04-01,Tuesday,2025-03-30,Overnight,Multi-Unit Trucks,435,5.4,1879.2
+2025-04-01,Tuesday,2025-03-30,Overnight,Buses,788,3.69,2326.18
+2025-04-01,Tuesday,2025-03-30,Overnight,Motorcycles,257,1.05,215.88
+2025-04-01,Tuesday,2025-03-30,Overnight,TLC Taxi/FHV,42182,1.13,38132.53
+2025-04-01,Tuesday,2025-03-30,Peak,Passenger Cars & Vans,246850,9.0,1777320.0
+2025-04-01,Tuesday,2025-03-30,Peak,Single-Unit Trucks,20214,14.4,232865.27
+2025-04-01,Tuesday,2025-03-30,Peak,Multi-Unit Trucks,1126,21.6,19457.28
+2025-04-01,Tuesday,2025-03-30,Peak,Buses,9575,14.76,113061.6
+2025-04-01,Tuesday,2025-03-30,Peak,Motorcycles,1801,4.5,6483.6
+2025-04-01,Tuesday,2025-03-30,Peak,TLC Taxi/FHV,136355,1.13,123264.92
+2025-04-02,Wednesday,2025-03-30,Overnight,Passenger Cars & Vans,39213,2.25,70583.4
+2025-04-02,Wednesday,2025-03-30,Overnight,Single-Unit Trucks,2874,3.6,8277.12
+2025-04-02,Wednesday,2025-03-30,Overnight,Multi-Unit Trucks,386,5.4,1667.52
+2025-04-02,Wednesday,2025-03-30,Overnight,Buses,809,3.69,2388.17
+2025-04-02,Wednesday,2025-03-30,Overnight,Motorcycles,264,1.05,221.76
+2025-04-02,Wednesday,2025-03-30,Overnight,TLC Taxi/FHV,46096,1.13,41670.78
+2025-04-02,Wednesday,2025-03-30,Peak,Passenger Cars & Vans,247339,9.0,1780840.8
+2025-04-02,Wednesday,2025-03-30,Peak,Single-Unit Trucks,19683,14.4,226748.15
+2025-04-02,Wednesday,2025-03-30,Peak,Multi-Unit Trucks,1053,21.6,18195.84
+2025-04-02,Wednesday,2025-03-30,Peak,Buses,9862,14.76,116450.5
+2025-04-02,Wednesday,2025-03-30,Peak,Motorcycles,1594,4.5,5738.4
+2025-04-02,Wednesday,2025-03-30,Peak,TLC Taxi/FHV,142677,1.13,128980.01
+2025-04-03,Thursday,2025-03-30,Overnight,Passenger Cars & Vans,43283,2.25,77909.4
+2025-04-03,Thursday,2025-03-30,Overnight,Single-Unit Trucks,2799,3.6,8061.12
+2025-04-03,Thursday,2025-03-30,Overnight,Multi-Unit Trucks,449,5.4,1939.68
+2025-04-03,Thursday,2025-03-30,Overnight,Buses,822,3.69,2426.54
+2025-04-03,Thursday,2025-03-30,Overnight,Motorcycles,317,1.05,266.28
+2025-04-03,Thursday,2025-03-30,Overnight,TLC Taxi/FHV,50245,1.13,45421.48
+2025-04-03,Thursday,2025-03-30,Peak,Passenger Cars & Vans,250229,9.0,1801648.8
+2025-04-03,Thursday,2025-03-30,Peak,Single-Unit Trucks,19877,14.4,228983.03
+2025-04-03,Thursday,2025-03-30,Peak,Multi-Unit Trucks,1125,21.6,19440.0
+2025-04-03,Thursday,2025-03-30,Peak,Buses,9945,14.76,117430.56
+2025-04-03,Thursday,2025-03-30,Peak,Motorcycles,1553,4.5,5590.8
+2025-04-03,Thursday,2025-03-30,Peak,TLC Taxi/FHV,148702,1.13,134426.61
+2025-04-04,Friday,2025-03-30,Overnight,Passenger Cars & Vans,49589,2.25,89260.2
+2025-04-04,Friday,2025-03-30,Overnight,Single-Unit Trucks,2767,3.6,7968.96
+2025-04-04,Friday,2025-03-30,Overnight,Multi-Unit Trucks,437,5.4,1887.84
+2025-04-04,Friday,2025-03-30,Overnight,Buses,820,3.69,2420.64
+2025-04-04,Friday,2025-03-30,Overnight,Motorcycles,388,1.05,325.92
+2025-04-04,Friday,2025-03-30,Overnight,TLC Taxi/FHV,52422,1.13,47389.49
+2025-04-04,Friday,2025-03-30,Peak,Passenger Cars & Vans,248773,9.0,1791165.6
+2025-04-04,Friday,2025-03-30,Peak,Single-Unit Trucks,19769,14.4,227738.87
+2025-04-04,Friday,2025-03-30,Peak,Multi-Unit Trucks,1228,21.6,21219.84
+2025-04-04,Friday,2025-03-30,Peak,Buses,9678,14.76,114277.83
+2025-04-04,Friday,2025-03-30,Peak,Motorcycles,1816,4.5,6537.6
+2025-04-04,Friday,2025-03-30,Peak,TLC Taxi/FHV,141006,1.13,127469.42
+2025-04-05,Saturday,2025-03-30,Overnight,Passenger Cars & Vans,94583,2.25,170249.4
+2025-04-05,Saturday,2025-03-30,Overnight,Single-Unit Trucks,4511,3.6,12991.68
+2025-04-05,Saturday,2025-03-30,Overnight,Multi-Unit Trucks,541,5.4,2337.12
+2025-04-05,Saturday,2025-03-30,Overnight,Buses,1533,3.69,4525.42
+2025-04-05,Saturday,2025-03-30,Overnight,Motorcycles,449,1.05,377.16
+2025-04-05,Saturday,2025-03-30,Overnight,TLC Taxi/FHV,84761,1.13,76623.94
+2025-04-05,Saturday,2025-03-30,Peak,Passenger Cars & Vans,190414,9.0,1370980.8
+2025-04-05,Saturday,2025-03-30,Peak,Single-Unit Trucks,4616,14.4,53176.32
+2025-04-05,Saturday,2025-03-30,Peak,Multi-Unit Trucks,313,21.6,5408.64
+2025-04-05,Saturday,2025-03-30,Peak,Buses,3374,14.76,39840.19
+2025-04-05,Saturday,2025-03-30,Peak,Motorcycles,1084,4.5,3902.4
+2025-04-05,Saturday,2025-03-30,Peak,TLC Taxi/FHV,113463,1.13,102570.55
+2025-04-06,Sunday,2025-04-06,Overnight,Passenger Cars & Vans,76917,2.25,138450.6
+2025-04-06,Sunday,2025-04-06,Overnight,Single-Unit Trucks,2071,3.6,5964.48
+2025-04-06,Sunday,2025-04-06,Overnight,Multi-Unit Trucks,231,5.4,997.92
+2025-04-06,Sunday,2025-04-06,Overnight,Buses,1272,3.69,3754.94
+2025-04-06,Sunday,2025-04-06,Overnight,Motorcycles,391,1.05,328.44
+2025-04-06,Sunday,2025-04-06,Overnight,TLC Taxi/FHV,77967,1.13,70482.17
+2025-04-06,Sunday,2025-04-06,Peak,Passenger Cars & Vans,183717,9.0,1322762.4
+2025-04-06,Sunday,2025-04-06,Peak,Single-Unit Trucks,2579,14.4,29710.08
+2025-04-06,Sunday,2025-04-06,Peak,Multi-Unit Trucks,192,21.6,3317.76
+2025-04-06,Sunday,2025-04-06,Peak,Buses,2866,14.76,33841.73
+2025-04-06,Sunday,2025-04-06,Peak,Motorcycles,1276,4.5,4593.6
+2025-04-06,Sunday,2025-04-06,Peak,TLC Taxi/FHV,103313,1.13,93394.95
+2025-04-07,Monday,2025-04-06,Overnight,Passenger Cars & Vans,37814,2.25,68065.2
+2025-04-07,Monday,2025-04-06,Overnight,Single-Unit Trucks,2578,3.6,7424.64
+2025-04-07,Monday,2025-04-06,Overnight,Multi-Unit Trucks,384,5.4,1658.88
+2025-04-07,Monday,2025-04-06,Overnight,Buses,809,3.69,2388.17
+2025-04-07,Monday,2025-04-06,Overnight,Motorcycles,224,1.05,188.16
+2025-04-07,Monday,2025-04-06,Overnight,TLC Taxi/FHV,37330,1.13,33746.32
+2025-04-07,Monday,2025-04-06,Peak,Passenger Cars & Vans,235962,9.0,1698926.4
+2025-04-07,Monday,2025-04-06,Peak,Single-Unit Trucks,18864,14.4,217313.27
+2025-04-07,Monday,2025-04-06,Peak,Multi-Unit Trucks,1037,21.6,17919.36
+2025-04-07,Monday,2025-04-06,Peak,Buses,9584,14.76,113167.87
+2025-04-07,Monday,2025-04-06,Peak,Motorcycles,1054,4.5,3794.4
+2025-04-07,Monday,2025-04-06,Peak,TLC Taxi/FHV,136120,1.13,123052.48
+2025-04-08,Tuesday,2025-04-06,Overnight,Passenger Cars & Vans,38260,2.25,68868.0
+2025-04-08,Tuesday,2025-04-06,Overnight,Single-Unit Trucks,2940,3.6,8467.2
+2025-04-08,Tuesday,2025-04-06,Overnight,Multi-Unit Trucks,405,5.4,1749.6
+2025-04-08,Tuesday,2025-04-06,Overnight,Buses,872,3.69,2574.14
+2025-04-08,Tuesday,2025-04-06,Overnight,Motorcycles,230,1.05,193.2
+2025-04-08,Tuesday,2025-04-06,Overnight,TLC Taxi/FHV,42441,1.13,38366.66
+2025-04-08,Tuesday,2025-04-06,Peak,Passenger Cars & Vans,244725,9.0,1762020.0
+2025-04-08,Tuesday,2025-04-06,Peak,Single-Unit Trucks,19772,14.4,227773.43
+2025-04-08,Tuesday,2025-04-06,Peak,Multi-Unit Trucks,1204,21.6,20805.12
+2025-04-08,Tuesday,2025-04-06,Peak,Buses,9828,14.76,116049.03
+2025-04-08,Tuesday,2025-04-06,Peak,Motorcycles,1494,4.5,5378.4
+2025-04-08,Tuesday,2025-04-06,Peak,TLC Taxi/FHV,139154,1.13,125795.22
+2025-04-09,Wednesday,2025-04-06,Overnight,Passenger Cars & Vans,39513,2.25,71123.4
+2025-04-09,Wednesday,2025-04-06,Overnight,Single-Unit Trucks,2759,3.6,7945.92
+2025-04-09,Wednesday,2025-04-06,Overnight,Multi-Unit Trucks,382,5.4,1650.24
+2025-04-09,Wednesday,2025-04-06,Overnight,Buses,811,3.69,2394.07
+2025-04-09,Wednesday,2025-04-06,Overnight,Motorcycles,235,1.05,197.4
+2025-04-09,Wednesday,2025-04-06,Overnight,TLC Taxi/FHV,47411,1.13,42859.54
+2025-04-09,Wednesday,2025-04-06,Peak,Passenger Cars & Vans,248118,9.0,1786449.6
+2025-04-09,Wednesday,2025-04-06,Peak,Single-Unit Trucks,19579,14.4,225550.07
+2025-04-09,Wednesday,2025-04-06,Peak,Multi-Unit Trucks,1129,21.6,19509.12
+2025-04-09,Wednesday,2025-04-06,Peak,Buses,9893,14.76,116816.55
+2025-04-09,Wednesday,2025-04-06,Peak,Motorcycles,1538,4.5,5536.8
+2025-04-09,Wednesday,2025-04-06,Peak,TLC Taxi/FHV,145917,1.13,131908.97
+2025-04-10,Thursday,2025-04-06,Overnight,Passenger Cars & Vans,41590,2.25,74862.0
+2025-04-10,Thursday,2025-04-06,Overnight,Single-Unit Trucks,2888,3.6,8317.44
+2025-04-10,Thursday,2025-04-06,Overnight,Multi-Unit Trucks,422,5.4,1823.04
+2025-04-10,Thursday,2025-04-06,Overnight,Buses,825,3.69,2435.4
+2025-04-10,Thursday,2025-04-06,Overnight,Motorcycles,286,1.05,240.24
+2025-04-10,Thursday,2025-04-06,Overnight,TLC Taxi/FHV,51358,1.13,46427.63
+2025-04-10,Thursday,2025-04-06,Peak,Passenger Cars & Vans,247930,9.0,1785096.0
+2025-04-10,Thursday,2025-04-06,Peak,Single-Unit Trucks,19980,14.4,230169.59
+2025-04-10,Thursday,2025-04-06,Peak,Multi-Unit Trucks,1199,21.6,20718.72
+2025-04-10,Thursday,2025-04-06,Peak,Buses,9766,14.76,115316.93
+2025-04-10,Thursday,2025-04-06,Peak,Motorcycles,1698,4.5,6112.8
+2025-04-10,Thursday,2025-04-06,Peak,TLC Taxi/FHV,149725,1.13,135351.4
+2025-04-11,Friday,2025-04-06,Overnight,Passenger Cars & Vans,47137,2.25,84846.6
+2025-04-11,Friday,2025-04-06,Overnight,Single-Unit Trucks,2769,3.6,7974.72
+2025-04-11,Friday,2025-04-06,Overnight,Multi-Unit Trucks,385,5.4,1663.2
+2025-04-11,Friday,2025-04-06,Overnight,Buses,803,3.69,2370.46
+2025-04-11,Friday,2025-04-06,Overnight,Motorcycles,259,1.05,217.56
+2025-04-11,Friday,2025-04-06,Overnight,TLC Taxi/FHV,52491,1.13,47451.86
+2025-04-11,Friday,2025-04-06,Peak,Passenger Cars & Vans,244473,9.0,1760205.6
+2025-04-11,Friday,2025-04-06,Peak,Single-Unit Trucks,19372,14.4,223165.43
+2025-04-11,Friday,2025-04-06,Peak,Multi-Unit Trucks,1135,21.6,19612.8
+2025-04-11,Friday,2025-04-06,Peak,Buses,9430,14.76,111349.44
+2025-04-11,Friday,2025-04-06,Peak,Motorcycles,1369,4.5,4928.4
+2025-04-11,Friday,2025-04-06,Peak,TLC Taxi/FHV,140624,1.13,127124.1
+2025-04-12,Saturday,2025-04-06,Overnight,Passenger Cars & Vans,91860,2.25,165348.0
+2025-04-12,Saturday,2025-04-06,Overnight,Single-Unit Trucks,4179,3.6,12035.52
+2025-04-12,Saturday,2025-04-06,Overnight,Multi-Unit Trucks,478,5.4,2064.96
+2025-04-12,Saturday,2025-04-06,Overnight,Buses,1514,3.69,4469.33
+2025-04-12,Saturday,2025-04-06,Overnight,Motorcycles,315,1.05,264.6
+2025-04-12,Saturday,2025-04-06,Overnight,TLC Taxi/FHV,80579,1.13,72843.42
+2025-04-12,Saturday,2025-04-06,Peak,Passenger Cars & Vans,184512,9.0,1328486.4
+2025-04-12,Saturday,2025-04-06,Peak,Single-Unit Trucks,4576,14.4,52715.52
+2025-04-12,Saturday,2025-04-06,Peak,Multi-Unit Trucks,416,21.6,7188.48
+2025-04-12,Saturday,2025-04-06,Peak,Buses,3162,14.76,37336.9
+2025-04-12,Saturday,2025-04-06,Peak,Motorcycles,917,4.5,3301.2
+2025-04-12,Saturday,2025-04-06,Peak,TLC Taxi/FHV,111756,1.13,101027.42
