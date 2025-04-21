@@ -116,23 +116,60 @@ st.markdown('''
 
 st.plotly_chart(sankey)
 
+toll_data = [
+    ['Passenger Cars & Vans', '$9.00', '$2.25', ''], 
+    ['Single-Unit Trucks', '$14.40', '$3.60', ''],
+    ['Multi-Unit Trucks', '$21.60', '$5.40', ''],
+    ['Sightseeing Buses', '$21.60', '$5.40', ''],
+    ['Other Buses', '$14.40', '$3.60', ''],
+    ['Motorcycles', '$4.50', '$1.05'],
+    ['TLC Taxi', '', '', '$0.75'],
+    ['App-based FHV', '', '', '$1.50']
+]
+
+toll_rates = pd.DataFrame(toll_data, columns=['Vehicle Class', 'Peak', 'Overnight', 'Per Trip']).set_index('Vehicle Class')
+
+st.markdown('''
+    Revenue estimates from the cordon pricing program are below. Actual revenue numbers have not yet been
+    released, so we use a set of assumptions on top of the table of rates below. 
+''')
+
+st.table(toll_rates)
+
+st.markdown('''
+    **Assumptions**
+ 
+    - Sightseeing buses make up 5\% of total buses. Bus revenue estimates are calculated with a weighted
+    average between the two rates of \$14.76 / \$3.69.
+    - 25/75 split between Taxis and App-based FHV for a weighted average of \$1.31 per car entering the zone.
+    We also assume an average of 8 rides per vehicle for an estimated revenue rate of \$9.19.
+    - We do NOT include credits toward tunnel crossings.
+    - We do NOT include low-income fare exemptions.
+''')
+
 view_choice = st.selectbox('Select view', ['By Vehicle Class', 'By Period'])
 
 entries['Toll Date'] = pd.to_datetime(entries['Toll Date'])
+
 if view_choice == 'By Vehicle Class':
     rev_group = (entries
                     .groupby(['Toll Date', 'Day of Week', 'Toll Week', 'Vehicle Class'])['Estimated Revenue']
                     .sum()
                     .reset_index())
-    
-    line_plot = px.bar(rev_group, x = 'Toll Date', y = 'Estimated Revenue', color = 'Vehicle Class')
+    line_plot = px.bar(rev_group, x = 'Toll Date', y = 'Estimated Revenue', 
+                       color = 'Vehicle Class', 
+                       category_orders={'Vehicle Class': ['Passenger Cars & Vans', 'TLC Taxi/FHV',
+                                                          'Single-Unit Trucks', 'Buses', 'Multi-Unit Trucks',
+                                                          'Motorcycles']})
+    line_plot.update_layout(xaxis_title='', font_family='Arial', height = 600)
 
 else:
     rev_group = (entries
-                    .groupby(['Toll Date', 'Day of Week', 'Toll Week', 'Period'])['Estimated Revenue']
+                    .groupby(['Toll Date', 'Day of Week', 'Toll Week', 'Time Period'])['Estimated Revenue']
                     .sum()
                     .reset_index())
     
-    line_plot = px.bar(rev_group, x = 'Toll Date', y = 'Estimated Revenue', color = 'Period')
+    line_plot = px.bar(rev_group, x = 'Toll Date', y = 'Estimated Revenue', 
+                       color = 'Time Period', category_orders = {'Time Period': ['Peak', 'Overnight']})
 
 st.plotly_chart(line_plot)
