@@ -6,3 +6,6 @@ polyline
 numpy
 openpyxl
 matplotlib
+pandas
+pydeck
+Pillow
