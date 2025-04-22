@@ -7,5 +7,3 @@ numpy
 openpyxl
 matplotlib
 PIL
-pydeck
-pandas
