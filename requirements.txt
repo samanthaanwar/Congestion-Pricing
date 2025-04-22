@@ -6,4 +6,3 @@ polyline
 numpy
 openpyxl
 matplotlib
-PIL
