@@ -5,3 +5,4 @@ shapely
 polyline
 numpy
 openpyxl
+matplotlib
