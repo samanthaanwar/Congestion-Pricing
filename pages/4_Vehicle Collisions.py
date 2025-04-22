@@ -47,8 +47,7 @@ def preprocess_data(df):
 def get_monthly_crash_count_fig(crash_df):
     # group and pivot to get crashes per year + month combo
     month_order = ['January', 'February', 'March']
-
-    # Group and pivot in one go
+    
     pivot_plot = (
         crash_df
         .groupby(['year', 'month'])
@@ -78,7 +77,6 @@ def get_monthly_crash_count_fig(crash_df):
     ax.set_xticklabels(pivot_plot['Month'], rotation=45)
     ax.legend(title="Year")
     ax.grid(True)
-    fig.tight_layout()
     return fig
 
 # data loading & processing 
@@ -117,22 +115,17 @@ st.pyplot(fig)
 st.markdown("---")
 st.subheader("Crash Density Shift After Congestion Pricing")
 
-# sidebar selector for Month (2024 vs 2025)
-st.sidebar.header("Settings")
-st.sidebar.subheader("Select a Month")
 month_options = {"January": 1, "February": 2, "March": 3}
-
-selected_month_name = st.sidebar.radio("Month", list(month_options.keys()))
-selected_month = month_options[selected_month_name]
+month_choice = st.selectbox('Select month', options=["January", "February", "March"])
 
 df_2024 = crz_crashes[
     (crz_crashes['crash_date'].dt.year == 2024) &
-    (crz_crashes['crash_date'].dt.month == selected_month)
+    (crz_crashes['crash_date'].dt.month == month_options[month_choice])
 ]
 
 df_2025 = crz_crashes[
     (crz_crashes['crash_date'].dt.year == 2025) &
-    (crz_crashes['crash_date'].dt.month == selected_month)
+    (crz_crashes['crash_date'].dt.month ==  month_options[month_choice])
 ]
 
 # configure map
@@ -179,7 +172,7 @@ tooltip = {
 col1, col2 = st.columns(2)
 
 with col1:
-    st.subheader(f"{selected_month_name} 2024")
+    st.subheader(f"{month_choice} 2024")
     st.pydeck_chart(pdk.Deck(
         layers=[before_layer],
         initial_view_state=view_state,
@@ -189,7 +182,7 @@ with col1:
     ))
 
 with col2:
-    st.subheader(f"{selected_month_name} 2025")
+    st.subheader(f"{month_choice} 2025")
     st.pydeck_chart(pdk.Deck(
         layers=[after_layer],
         initial_view_state=view_state,
