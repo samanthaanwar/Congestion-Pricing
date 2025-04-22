@@ -98,7 +98,7 @@ st.write("Comparing crash densities across 2024 vs 2025. Use sidebar controls to
 st.markdown('''
 In 2024, 226 people were killed and 49,364 were injured as a result of motor vehicles collisions across NYC. 21 of those deaths occurred within the congestion zone and surrounding areas in Queens and Brooklyn. As a result, a large factor in the success of congestion pricing is whether the number of motor crashes saw a decrease or not. 
 ''')
-image = Image.open("/Users/ik/src/dspp/final_project/motor_deaths_in_2024.png")
+image = Image.open("./images/motor_deaths_in_2024.png")
 st.image(image, caption='Deaths via Motor Vehicle Collisions (2024)', use_container_width=True)
 
 # Streamlit Subsection #2: Monthly Crash Comparison viz
