@@ -3,8 +3,8 @@ import sys
 import pandas as pd
 import pydeck as pdk
 import streamlit as st
-import matplotlib.pyplot as plt
 from PIL import Image
+from utils import plot_tlc_metric
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from utils import load_data
@@ -44,41 +44,6 @@ def preprocess_data(df):
     df_filtered = df[(manhattan_filter | queens_filter | brooklyn_filter)].copy()
     return df_filtered
 
-def get_monthly_crash_count_fig(crash_df):
-    # group and pivot to get crashes per year + month combo
-    month_order = ['January', 'February', 'March']
-    
-    pivot_plot = (
-        crash_df
-        .groupby(['year', 'month'])
-        .size()
-        .reset_index(name='crash_count')
-        .pivot(index='month', columns='year', values='crash_count')
-        .fillna(0)
-        .astype(int)
-        .reindex(month_order)
-        .reset_index()
-    )
-    pivot_plot['month'] = pd.Categorical(pivot_plot['month'], categories=month_order, ordered=True)
-    pivot_plot = pivot_plot.sort_values('month').rename(columns={'month': 'Month'})
-
-    fig, ax = plt.subplots(figsize=(12, 6))
-
-    # add a line for each year
-    for year in pivot_plot.columns[1:]:
-        ax.plot(pivot_plot['Month'], pivot_plot[year], label=str(year), marker='o')
-        for i, value in enumerate(pivot_plot[year]):
-            ax.text(i, value - 8, str(value), ha='center', va='bottom', fontsize=8)
-
-    ax.set_title("Monthly Crash Counts by Year")
-    ax.set_xlabel("Month")
-    ax.set_ylabel("Crash Count")
-    ax.set_xticks(range(len(pivot_plot['Month'])))
-    ax.set_xticklabels(pivot_plot['Month'], rotation=45)
-    ax.legend(title="Year")
-    ax.grid(True)
-    return fig
-
 # data loading & processing 
 crashes_api_url = 'https://data.cityofnewyork.us/resource/h9gi-nx95.json'
 start_date_str = "2024-01-01T00:00:00" # from 01/01/2024
@@ -108,8 +73,11 @@ We begin with a comparison of the number of crashes across corresponding months 
 Based on this initial analysis, we can see that for each month that the congestion pricing was in effect (Jan - March 2025), there were less accidents in the same month of the previous year. However, we are seeing that gap slowly narrow with only a reduction of 3.04% from March 2024 to March 2025. 
 ''')
 
-fig = get_monthly_crash_count_fig(crz_crashes)
-st.pyplot(fig)
+grouped_df = crz_crashes.groupby(['year', 'month']).size().reset_index(name='crash_count')
+grouped_df = grouped_df.rename(columns={'year': 'Year', 'month': 'Month'})
+
+fig_crash_counts = plot_tlc_metric(grouped_df, 'crash_count', 'Monthly Crash Count', 'count')
+st.altair_chart(fig_crash_counts, use_container_width=True)
 
 # Streamlit Subsection #3: Crash density comparison maps
 st.markdown("---")
