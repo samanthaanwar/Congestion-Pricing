@@ -1,12 +1,16 @@
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
+import datetime
 
 dfs = []
 
+now = datetime.datetime.now()
+current_month = now.month
+
 for year in [2022, 2023, 2024, 2025]:
     if year == 2025:
-        for month in range(1,5):  
+        for month in range(1,current_month+1):  
             url = f'https://azdohv2staticweb.blob.core.windows.net/$web/hist/csv/{year}/{month}/hourlyMonitoring.csv'
             dfs.append(pd.read_csv(url))
     else:
@@ -199,7 +203,7 @@ site_options = sorted(ytd.SiteName.unique())
 traces = []
 site_trace_indices = {}
 
-colors = {2022: '#E2E0C8', 2023: '#A7B49E', 2024: '#818C78', 2025: '#5C7285'}
+colors = {2022: '#FCD0A1', 2023: '#B1B695', 2024: '#A690A4', 2025: '#5E4B56'}
 
 for site in site_options:
     indices = []
