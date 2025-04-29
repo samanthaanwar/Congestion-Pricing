@@ -142,9 +142,12 @@ st.markdown('''
     - Sightseeing buses make up 5\% of total buses. Bus revenue estimates are calculated with a weighted
     average between the two rates of \$14.76 / \$3.69.
     - 25/75 split between Taxis and App-based FHV for a weighted average of \$1.31 per car entering the zone.
-    We also assume an average of 8 rides per vehicle for an estimated revenue rate of \$9.19.
-    - We do NOT include credits toward tunnel crossings.
-    - We do NOT include low-income fare exemptions.
+    We also assume an average of 10 rides per vehicle per for an estimated revenue rate of \$13.10.
+    - Vehicles receive credits for entering and leaving the CRZ via a tunnel, and some vehicles are part of
+    a low-income program which offers 50\% off rates after the vehicle's 11th ride per month. We reduce 
+    revenue estimates by 15% to reflect these conditions.
+    - We multiply revenue by 80% to reflect mandate from Article 44-C that 80\% of revenue be attributed
+    to MTA projects.
 ''')
 
 revenue_sum = entries['Estimated Revenue'].sum()
