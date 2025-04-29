@@ -80,30 +80,44 @@ mnr_counterfactual_2025 = mnr_counterfactual_2025[:min_length]
 
 # Step 6: Plotting and Saving Figures
 # ITS Visualization
-fig, ax = plt.subplots(2, 1, figsize=(12, 8), sharex=True)
-ax[0].plot(its_df.index, its_df['LIRR_7d'], label='LIRR (7-day Avg)', color='blue')
-ax[0].axvline(intervention_date, color='red', linestyle='--', label='Policy Start')
-ax[0].axvspan(highlight_2024_start, highlight_2024_end, color='blue', alpha=0.1)
-ax[0].axvspan(highlight_start, highlight_end, color='orange', alpha=0.2)
-ax[0].set_title('LIRR Ridership (7-day Avg) with Jan–Apr Highlights')
-ax[0].legend()
-ax[0].grid(True)
+fig_its, ax_its = plt.subplots(2, 1, figsize=(12, 8), sharex=True)
+ax_its[0].plot(its_df.index, its_df['LIRR_7d'], label='LIRR (7-day Avg)', color='blue')
+ax_its[0].axvline(intervention_date, color='red', linestyle='--', label='Policy Start')
+ax_its[0].axvspan(highlight_2024_start, highlight_2024_end, color='blue', alpha=0.1)
+ax_its[0].axvspan(highlight_start, highlight_end, color='orange', alpha=0.2)
+ax_its[0].set_title('LIRR Ridership (7-day Avg) with Jan–Apr Highlights')
+ax_its[0].legend()
+ax_its[0].grid(True)
 
-ax[1].plot(its_df.index, its_df['MNR_7d'], label='MNR (7-day Avg)', color='green')
-ax[1].axvline(intervention_date, color='red', linestyle='--', label='Policy Start')
-ax[1].axvspan(highlight_2024_start, highlight_2024_end, color='blue', alpha=0.1)
-ax[1].axvspan(highlight_start, highlight_end, color='orange', alpha=0.2)
-ax[1].set_title('MNR Ridership (7-day Avg) with Jan–Apr Highlights')
-ax[1].legend()
-ax[1].grid(True)
+ax_its[1].plot(its_df.index, its_df['MNR_7d'], label='MNR (7-day Avg)', color='green')
+ax_its[1].axvline(intervention_date, color='red', linestyle='--', label='Policy Start')
+ax_its[1].axvspan(highlight_2024_start, highlight_2024_end, color='blue', alpha=0.1)
+ax_its[1].axvspan(highlight_start, highlight_end, color='orange', alpha=0.2)
+ax_its[1].set_title('MNR Ridership (7-day Avg) with Jan–Apr Highlights')
+ax_its[1].legend()
+ax_its[1].grid(True)
 
 plt.xlabel('Date')
 plt.tight_layout()
 # plt.savefig("ITS_LIRR_MNR.png")
-plt.show()
+
+# STREAMLIT APP
+
+st.markdown('''
+Taking into consideration that many modes included in the MTA data are not directly impacted 
+by congestion pricing, two main modes for longer distance travel into Manhattan are examined 
+for daily ridership trends, the Long Island Railroad (LIRR) and Metro-North Railroad (MNR).
+''')
+st.pyplot(fig_its)
+st.markdown('''
+In both cases, a notable increase in ridership was observed during the January–April 2025 period 
+compared to the same months in 2024, controlling for seasonal variation. Specifically, LIRR 
+ridership rose by approximately 9.7\% relative to January–April 2024. MNR ridership rose by 
+approximately 6.1\% relative to January–April 2024.
+''')
 
 # DiD Bar Chart
-fig, ax = plt.subplots(figsize=(8, 6))
+fig_did, ax = plt.subplots(figsize=(8, 6))
 x = np.arange(len(comparison_modes))
 bar_width = 0.35
 ax.bar(x - bar_width/2, avg_2024_all, bar_width, label='2024')
@@ -115,24 +129,51 @@ ax.set_title('Difference-in-Differences: LIRR & MNR vs SIR')
 ax.legend()
 plt.grid(axis='y', linestyle='--', alpha=0.6)
 plt.tight_layout()
-plt.savefig("DiD_LIRR_MNR_SIR.png")
-plt.show()
+# plt.savefig("DiD_LIRR_MNR_SIR.png")
+
+st.pyplot(fig_did)
+st.markdown('''
+To strengthen causal inference, a Difference-in-Differences (DiD) framework was applied, using 
+Staten Island Railway (SIR) as a control group. Average daily ridership for each mode was calculated 
+separately for the January–April 2024 and January–April 2025 periods. The absolute change in ridership 
+between the two years was then determined for each mode. To estimate the policy’s impact, the change 
+observed in the control group (SIR) was subtracted from the changes observed in the treatment groups (LIRR 
+and MNR). The final treatment effect was reported as the average of the adjusted changes for LIRR and MNR, 
+isolating the net effect of congestion pricing from broader system-wide trends.
+
+Results showed LIRR ridership increased by 18,134 average daily riders, while MNR increased by 10,047 
+between January–April 2024 and the same period in 2025. SIR ridership, by contrast, increased by only 170 
+average daily riders over the same period.
+''')
+
 
 # Counterfactual Projection Plot
-fig, ax = plt.subplots(2, 1, figsize=(12, 8), sharex=True)
-ax[0].plot(date_range, actual_2025_lirr, label='LIRR Actual', color='blue')
-ax[0].plot(date_range, lirr_counterfactual_2025, label='Seasonal Counterfactual', linestyle='--', color='gray')
-ax[0].set_title('LIRR: Actual vs Seasonal Counterfactual')
-ax[0].legend()
-ax[0].grid(True)
+fig_cf, ax_cf = plt.subplots(2, 1, figsize=(12, 8), sharex=True)
+ax_cf[0].plot(date_range, actual_2025_lirr, label='LIRR Actual', color='blue')
+ax_cf[0].plot(date_range, lirr_counterfactual_2025, label='Seasonal Counterfactual', linestyle='--', color='gray')
+ax_cf[0].set_title('LIRR: Actual vs Seasonal Counterfactual')
+ax_cf[0].legend()
+ax_cf[0].grid(True)
 
-ax[1].plot(date_range, actual_2025_mnr, label='MNR Actual', color='green')
-ax[1].plot(date_range, mnr_counterfactual_2025, label='Seasonal Counterfactual', linestyle='--', color='gray')
-ax[1].set_title('MNR: Actual vs Seasonal Counterfactual')
-ax[1].legend()
-ax[1].grid(True)
+ax_cf[1].plot(date_range, actual_2025_mnr, label='MNR Actual', color='green')
+ax_cf[1].plot(date_range, mnr_counterfactual_2025, label='Seasonal Counterfactual', linestyle='--', color='gray')
+ax_cf[1].set_title('MNR: Actual vs Seasonal Counterfactual')
+ax_cf[1].legend()
+ax_cf[1].grid(True)
 
 plt.xlabel('Date')
 plt.tight_layout()
 # plt.savefig("Counterfactual_LIRR_MNR.png")
-plt.show()
+
+st.pyplot(fig_cf)
+st.markdown('''
+The seasonally adjusted counterfactual analysis was conducted to control for natural seasonal 
+fluctuations in ridership unrelated to congestion pricing. The January–April 2024 ridership patterns 
+for LIRR and MNR were extracted and used as the baseline seasonal template. Average ridership during 
+December 2024 was calculated to establish an end-of-year baseline level for scaling. Scaling factors 
+were derived by comparing December 2024 averages to the January–April 2024 averages, allowing the historical 
+seasonal pattern to be proportionally adjusted to the ridership conditions immediately preceding the policy 
+intervention. This adjusted seasonal profile was then projected forward for January–April 2025 to represent 
+the expected ridership trajectory absent the policy. Actual 2025 ridership was compared against this 
+counterfactual, with deviations interpreted as evidence of the policy’s causal impact.
+''')
