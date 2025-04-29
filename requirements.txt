@@ -10,3 +10,4 @@ pandas
 pydeck
 Pillow
 altair
+statsmodels
